@@ -6,7 +6,7 @@ object HtmlParser {
   def main(args: Array[String]): Unit = {
     val messagesPath = ""
     val htmlPath = ""
-    val templatePath = "/"
+    val templatePath = ""
 
     val inputLines: Seq[String] = getLines(htmlPath)
     val parsedLines: Seq[ParsedLine] = parseLines(inputLines)
@@ -28,10 +28,11 @@ object HtmlParser {
   private def parseLines(inputLines: Seq[String]): Seq[ParsedLine] = {
     val paragraphRegex: Regex = "(<p>)(.*)(</p>)".r
     inputLines map {
-      case line@paragraphRegex(_, innerText, _) =>
+      case paragraph@paragraphRegex(_, innerText, _) =>
         extractMessage(innerText) match {
-          case Some(msg) => ParsedLine(line.replace(innerText, msg.key), Some(msg))
-          case _ => ParsedLine(line, None)
+          case Some(message) =>
+            ParsedLine("<p class=\"govuk-body\">" + message.toHtml() + "<p>", Some(message))
+          case _ => ParsedLine(paragraph, None)
         }
       case line => ParsedLine(line, None)
     }
@@ -59,5 +60,7 @@ object HtmlParser {
   case class ParsedLine(templateLine: String, message: Option[Message])
   case class Message(key: String, value: String) {
     override def toString: String = s"$key=$value"
+
+    def toHtml(): String = s"@messages(\"${key}\")"
   }
 }

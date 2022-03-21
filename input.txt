@@ -1,0 +1,521 @@
+<h3 id="individual">Article I. Individuals</h3>
+
+<p>1.1 HM Revenue and Customs (HMRC) Online Services allow Individuals to send information over the Internet (for example Self Assessment tax return, application for VAT Registration), view records online (for example Self Assessment Statement) and make payments. In the future, additional services and features may be added. You will find full details of the services that are currently available on the HMRC <a class="new-window" href="http://www.hmrc.gov.uk/online/index.htm">Online Services</a> page.</p>
+
+<h4>Registration</h4>
+
+<p>2.1 You can register as an Individual for HMRC Online Services on the GOV.UK or Government Gateway websites.</p>
+
+<p>2.2 If you register on the GOV.UK website, the details you provide will be passed to the Government Gateway for verification (on behalf of HMRC). If successful, your registration details, including your name and email address (optional), will be stored securely on the Government Gateway system, in accordance with the Gateway privacy policy. You can view the Government Gateway privacy policy on their website.</p>
+
+<p>2.3 Your email address, if provided, may be used by the Government Gateway to communicate with you and to forward messages to you in relation to other Government online services if you choose to register for those services.</p>
+
+<p>2.4 If you register on the GOV.UK website, your registration details may also be stored on HMRC systems. You can view the HMRC <a class="new-window" href="http://www.hmrc.gov.uk/about/privacy.htm">Privacy policy</a> on the GOV.UK website.</p>
+
+<h4>User ID and password</h4>
+
+<p>3.1 Your User ID and password (or Digital Certificate) will be used to verify your identity and to authenticate information you send. They will be held securely on the Government Gateway and will not be made available to government departments.</p>
+
+<p>3.2 The Government Gateway uses the postal address registered on relevant HMRC systems to send you the service Activation Code (if required). After the Gateway has sent this information, your address is deleted from the Government Gateway.</p>
+
+<h4>De-registration</h4>
+
+<p>4.1 De-registration from HMRC Online Services must be done either on the Government Gateway or GOV.UK website.</p>
+
+<h4>Login</h4>
+
+<p>5.1 When registered, you can login to the GOV.UK website using your User ID and password (or Digital Certificate) to access HMRC Online Services. Your encrypted User ID and password (or Digital Certificate) will be passed to the Government Gateway for authentication.</p>
+
+<h4>Security</h4>
+
+<p>6.1 You must always keep your User ID and password (or Digital Certificate) safe and secret. You can change your password on the HMRC or Government Gateway websites.</p>
+
+<p>6.2 If you forget your User ID, you can ask for it to be re-issued either by post or online, using the GOV.UK website. If you forget your password, you can request a replacement to be sent to you either by post or online using the GOV.UK website.</p>
+
+<p>6.3 If you lose both your User ID and password, you will need to contact the HMRC <a class="new-window" href="https://online.hmrc.gov.uk/information/helpdesk">Online Services Helpdesk</a> (details are provided on the GOV.UK website).</p>
+
+<p>6.4 For detailed guidance regarding online security and protection, please follow the link <a class="new-window" href="http://www.hmrc.gov.uk/security/index.htm">Online security - making your online experience as secure as possible</a>.</p>
+
+<h4 id="secure">Secure mailbox</h4>
+
+<p>7.1 When you register for the first time, a secure online mailbox will be set up for you on the Government Gateway. Some online services may make use of the secure mailbox to send you communications and replies to email questions. For these services, you can view the contents of your secure mailbox on the GOV.UK website.</p>
+
+<p>7.2 You should regularly check your mailbox and delete old messages. Read messages that have been on the system for up to three months from delivery will be archived and removed from your mailbox. Unread messages that have been on the system for up to 12 months from delivery will be archived and removed from your mailbox.</p>
+
+<p>7.3 If you opt to receive statutory notices, decisions, estimates and reminders relating to your tax affairs and tax credits, which may include notice to file a tax return, renew your tax credits, make a payment or information about other related matters electronically then these will be delivered to a separate dedicated secure online mailbox. This mailbox is different to the secure mailbox set up for you on the Government Gateway.</p>
+
+<h4 id="8">Statutory notices, decisions, estimates and reminders relating to your tax affairs and tax credits</h4>
+
+<p>8.1 Some online services may be used, or may make use of the secure online mailbox, to issue statutory notices, decisions, estimates and reminders relating to your tax affairs and tax credits. You can view these securely on the GOV.UK website. You may also print or save them to your own computer. Statutory notices, decisions, estimates and reminders relating to your tax affairs and tax credits made available in this way by HMRC will have the same legal effect as paper statutory notices, decisions, estimates and reminders relating to your tax affairs and tax credits sent to you by post.</p>
+
+<p>8.2 You will be asked to provide your consent before HMRC issues statutory notices, decisions, estimates and reminders relating to your tax affairs and tax credits to you using the secure online mailbox referred to in paragraph 7.3. Where this is the case you will be asked to provide this on screen. If you give your consent you will be required to register an email address with HMRC and HMRC will verify these details with you. When statutory notices, decisions, estimates and reminders relating to your tax affairs and tax credits are issued to you using your secure online mailbox, a notification email will also be sent to your registered email address to inform you of this. You should keep the details of your registered email address up-to-date and notify HMRC of any changes.</p>
+
+<p>8.3 If you give the consent referred to in paragraph 8.2 you may also be asked to register a telephone number with HMRC. When statutory notices, decisions, estimates and reminders relating to your tax affairs and tax credits are issued to you HMRC may also send a text message to this telephone number, or to a daytime telephone number that you have already provided to HMRC, to inform you of this. You should keep the details of your registered telephone number up-to-date and notify HMRC of any changes.</p>
+
+<h4>Online filing services</h4>
+
+<p>9.1 When using HMRC online filing services, you must use either HMRC software or, where available, online filing enabled third party software. The software will prompt you to enter your User ID and password (or Digital Certificate) at the appropriate time to verify your identity and authenticate the information you are sending.</p>
+
+<p>9.2 Some online services allow you to send attachments (for example PDF files) with the return. Any attachments you send with the return must be proper and complete and must be able to be viewed by HMRC. If for any reason HMRC cannot view the contents of the attachments, or they are not proper and complete, the obligation to make a return may not be satisfied. Although HMRC will notify you of this as soon as possible if it happens, HMRC cannot guarantee to do so in time for you to avoid incurring penalties.</p>
+
+<p>9.3 An authenticated tax return, claim, application or form sent over the Internet and accepted by HMRC systems has the same legal validity and implications as a signed paper return, claim, application or form delivered to a HMRC office.</p>
+
+<p>9.4 Some HMRC Online Services require information to be provided in a paper form. You will be told on screen when this is the case and where appropriate, directed to the appropriate downloadable form.</p>
+
+<h4>General</h4>
+
+<p>10.1 HMRC may revise these Terms and Conditions as services are developed. HMRC may:</p>
+
+<ul>
+<li>use this internet service for any part of HMRC dealings with you in relation to any of the services you are registered for</li>
+
+<li>withdraw or add services and features or change the way in which you may access those services without prior notice - although HMRC shall try to give you notice of any changes</li>
+</ul>
+
+<p>10.2 You can view HMRC Terms and Conditions at any time by following the Terms and Conditions link at the bottom of any HMRC Online Service webpage.</p>
+
+<h4>Authorised use</h4>
+
+<p>11.1 This is a protected United Kingdom Government website. Unauthorised access and unauthorised modification are offences under the Computer Misuse Act 1990; it is unlawful therefore to cause damage to it intentionally or to any HMRC electronic facility or data through the knowing transmission of any program, information, code or command.</p>
+
+<p>11.2 Unless otherwise specified, the material featured on this site is protected by <a class="new-window" href="http://www.hmrc.gov.uk/copyright/">Crown Copyright</a>.</p>
+
+<h4>Service access</h4>
+
+<p>12.1 HMRC will try to ensure that the online service is available 24 hours a day, 7 days a week. If the service is interrupted HMRC will restore it as soon as possible. However access to the service may be suspended without notice. If the service is disrupted, it remains your responsibility to comply with any statutory time limits regarding the filing of statements and returns.</p>
+
+<p>12.2 HMRC reserves the right to deny access to the service where it is considered necessary to protect the revenue, for example, to protect the revenue and/or service integrity.</p>
+
+<h4>Information relating to your statutory obligations</h4>
+
+<p>13.1 You can access legal information and guidance concerning your statutory obligations in respect of the various online services by going to the 'Your account' area. You should make sure you are familiar with this information as it will tell you what the statutory requirements for the use of online services are.</p>
+
+<p>13.2 Updates to this information will be placed in the <a class="new-window" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageOnlineServices_FAQs&amp;propertyType=document&amp;columns=1&amp;id=HMCE_PROD1_026374">Legal conditions</a> area which can be accessed via the 'Your account' area. You should ensure that you keep yourself updated as to your legal obligations by checking this area regularly.</p>
+
+<h4>Liability</h4>
+
+<p>14.1 HMRC makes every attempt to ensure the accuracy and reliability of the information contained in the publications and services stored, served and accessed by this web service, but this information should not be relied upon as a substitute for formal advice from HMRC. The materials contained on this website are provided for general information only and do not constitute any form of advice.</p>
+
+<p>14.2 HMRC, its employees and Agents will not be responsible for any loss, however arising, from the use of, or reliance on this information. HMRC will not be liable for any special, incidental, indirect or consequential damages of any kind, including, without limitation, those resulting from loss of use, data or profits, however those damages may arise.</p>
+
+<p>14.3 By providing links to other websites, HMRC does not guarantee, approve or endorse the information or products available at these sites, nor does a link necessarily indicate any association with or endorsement of the linked site by HMRC.</p>
+
+<p>14.4 HMRC will not be liable for any disruption or failure to make the system available.</p>
+
+<h4>Data management</h4>
+
+<p>15.1 Where HMRC systems are disrupted due to a system failure, information will be held in a secure file store at the Government Gateway for up to 3 days. Information will be passed to HMRC systems as soon as possible.</p>
+
+<h4>Paying by Direct Debit using the HMRC Direct Debit online service</h4>
+
+<p>16.1 Please be aware that:</p>
+
+<ul>
+<li>It is your responsibility to ensure that payment is received by HMRC, and has cleared in to the HMRC account, on or before the due date. Failure to do so may result in interest and/or a surcharge.</li>
+
+<li>Setting up a Direct Debit Instruction and payment plan does not constitute agreement by HMRC either to the payment date(s) you enter or to defer pursuit of any debt that is overdue.</li>
+
+<li>A Tax Credit repayment plan will only be accepted if it covers the full liability for the period specified.</li>
+
+<li>A budget payment plan provides the means to make payments towards a future Self Assessment liability. It does not constitute agreement by HMRC either to the payment date(s) you enter or to defer pursuit of any debt that is overdue.</li>
+</ul>
+
+<p>16.2 By granting access to Users and Assistants you are giving that user access to the Direct Debit online service.</p>
+
+<h4>Paying VAT by Direct Debit using the VAT Direct Debit Instruction online service</h4>
+
+<p>17.1 These are the terms and conditions for paying VAT due on returns by Direct Debit (DD).</p>
+
+<p>17.2 To pay by Direct Debit you first need to have registered and enrolled for the online VAT return service.</p>
+
+<p>17.3 Returns for which a DD is to be collected must be made using the online VAT return service.</p>
+
+<p>17.4 You must ensure that your Bank/Building Society will accept Direct Debit Instruction (DDI) for your nominated account. DD collections can only be made subject to their acceptance of the DDI.</p>
+
+<p>17.5 The submission of a DDI will act as confirmation that you accept and will comply with these terms and conditions.</p>
+
+<p>17.6 When submitting a DDI online, you must be authorised to sign for the account. You must be the sole signatory of the account, one of multiple signatories of the account, or authorised to sign on behalf of all the other signatories.</p>
+
+<p>17.7 You must also be acting in accordance with the mandate you have with your Bank/Building Society.</p>
+
+<p>17.8 The account from which your DD is to be collected must be a sterling bank account registered in the UK.</p>
+
+<p>17.9 The amount collected will be the net VAT due to HMRC as declared in the box 5 of your online VAT return. You must ensure that sufficient cleared funds are available in your account to pay the declared amount on collection day. We will inform you of the date for collection online when you submit your return.</p>
+
+<p>17.10 Only the amount declared on your online VAT return will be collected by Direct Debit. You must arrange to pay other VAT liabilities (for example, surcharge, penalties or interest) by alternative payment methods.</p>
+
+<p>17.11 You could be liable to a financial penalty if your completed return and all of the VAT payable are not received by the dates they are due. If, for any reason, you are aware that the Direct Debit collection will fail, you must use an alternative method to pay by the due date.</p>
+
+<p>17.12 The Bank/Building Society Account details which you submit for paying VAT due by DD (and any changes to those details notified to us later) will not affect any other Bank/Building Society account details that we may hold for other purposes i.e. for the repayment of VAT claims.</p>
+
+<p>17.13 You cannot cancel or amend your DDI via our online service. Instead, you should inform your Bank or Building Society and they will automatically advise us of any changes. This includes where your DDI is being transferred to a different Bank or Building Society, or where it is transferred to a different branch within the same Bank/Building Society. We will only be able to make amendments notified via your Bank/Building Society.</p>
+
+<h4>Applicable law</h4>
+
+<p>18.1 The Terms and Conditions of this agreement will be construed in accordance with the laws of England and Wales and will be subject to the exclusive jurisdiction of the courts of England and Wales.</p>
+
+<h3 id="organisation">Article II. Organisations</h3>
+
+<p>19.1 HMRC Online Services allow Organisations (including Trusts, Pension Scheme Administrators and Practitioners) to send information over the Internet (for example PAYE returns, Company Tax Returns) and to view records online (for example liabilities and payments). In the future, additional services and features may be added. You will find full details of the services that are currently available on the HMRC <a class="new-window" href="http://www.hmrc.gov.uk/online/index.htm">Online Services</a> page.</p>
+
+<h4>Registration</h4>
+
+<p>20.1 You can register on behalf of an Organisation for HMRC Online Services on the GOV.UK or Government Gateway websites.</p>
+
+<p>20.2 If you register on the GOV.UK website, the details you provide will be passed to the Government Gateway for verification (on behalf of HMRC). If successful, your registration details, including your name and email address (optional), will be stored securely on the Government Gateway system, in accordance with the Gateway privacy policy. You can view the Government Gateway privacy policy on their website.</p>
+
+<p>20.3 Your email address, if provided, may be used by the Government Gateway to communicate with you and to forward messages to you in relation to other Government online services if you choose to register for those services.</p>
+
+<p>20.4 If you register on the GOV.UK website, your registration details may also be stored on HMRC systems. You can view the HMRC <a class="new-window" href="http://www.hmrc.gov.uk/about/privacy.htm">Privacy policy</a> on the GOV.UK website.</p>
+
+<h4>User ID and password</h4>
+
+<p>21.1 Your User ID and password (or Digital Certificate) will be used to verify your identity and authenticate information you send. They will be held securely on the Government Gateway and will not be made available to government departments.</p>
+
+<p>21.2 The Government Gateway uses the postal address registered on relevant HMRC systems to send you the service Activation Code (if required). After the Gateway has sent this information, your address is deleted from the Government Gateway.</p>
+
+<h4>De-registration</h4>
+
+<p>22.1 De-registration from HMRC Online Services must be done either on the Government Gateway or GOV.UK websites.</p>
+
+<h4>Login</h4>
+
+<p>23.1 When registered, you can login to the GOV.UK website using your User ID and password (or Digital Certificate) to access HMRC Online Services. Your encrypted User ID and password (or Digital Certificate) will be passed to the Government Gateway for authentication.</p>
+
+<h4>Security</h4>
+
+<p>24.1 You must always keep your User ID and password (or Digital Certificate) safe and secret. You can change your password on the GOV.UK or Government Gateway websites.</p>
+
+<p>24.2 If you forget your User ID, you can ask for it to be re-issued either by post or online, using the GOV.UK website. If you forget your password, you can request a replacement to be sent to you either by post or online using the GOV.UK website.</p>
+
+<p>24.3 If you lose both your User ID and password, you will need to contact the HMRC <a class="new-window" href="https://online.hmrc.gov.uk/information/helpdesk">Online Services Helpdesk</a> (details are provided on the GOV.UK website).</p>
+
+<p>24.4 For detailed guidance regarding online security and protection, please follow the link <a class="new-window" href="http://www.hmrc.gov.uk/security/index.htm">Online security - making your online experience as secure as possible</a>.</p>
+
+<h4>Secure mailbox</h4>
+
+<p>25.1 When you register for the first time, a secure online mailbox will be set up for you on the Government Gateway. Some online services may make use of the secure mailbox to send you communications and replies to email questions. For these services, you can view the contents of your secure mailbox on the GOV.UK website.</p>
+
+<p>25.2 You should regularly check your mailbox and delete old messages. Read messages that have been on the system for up to three months from delivery will be archived and removed from your mailbox. Unread messages that have been on the system for up to 12 months from delivery will be archived and removed from your mailbox.</p>
+
+<h4>Statutory notices, reminders and certificates</h4>
+
+<p>26.1 Some online services may be used to issue statutory notices (such as PAYE coding notices) and reminders to you. You can view the notices and reminders securely on the GOV.UK website, or in most cases using third party software applications. You may also print or save them to your own computer. Statutory notices made available in this way by HMRC will have the same legal validity and implications as a paper statutory notice sent to you by post.</p>
+
+<p>26.2 If you would prefer to continue receiving PAYE notices and reminders by Electronic Data Interchange (EDI) or paper, you can opt out of receiving these over the internet. You can do this on the GOV.UK website by following the 'Change notice options' link from your 'PAYE At a glance' page. However, HMRC reserve the right to continue sending other information, such as customer service messages and information about tax-free payments, to your online mailbox. If you later wish to change preferences, follow 'Change notice options' link from your 'PAYE At a glance' page.</p>
+
+<p>26.3 If you are a Pension Scheme Administrator or Practitioner and have registered and activated the Pension Schemes Service HMRC will automatically send notices, reminders and certificates over the internet, however you can choose to receive them by paper as well. Statutory notices (such as acknowledgement of registration of a Pension Scheme) made available over the internet will have the same legal validity and implications as a paper statutory notice sent to you by post.</p>
+
+<h4>Online filing services</h4>
+
+<p>27.1 When using HMRC online filing services, you must use either HMRC software or, where available, online filing enabled third party software. The software will prompt you to enter your User ID and password (or Digital Certificate) at the appropriate time to verify your identity and authenticate the information you are sending.</p>
+
+<p>27.2 Some online services allow you to send attachments (for example PDF files) with the return. Any attachments you send with the return must be proper and complete and must be able to be viewed by HMRC. If for any reason HMRC cannot view the contents of the attachments, or they are not proper and complete, the obligation to make a return may not be satisfied. Although HMRC will notify you of this as soon as possible if it happens, HMRC cannot guarantee to do so in time for you to avoid incurring penalties.</p>
+
+<p>27.3 An authenticated tax return, claim, application or form sent over the internet and accepted by HMRC systems has the same legal validity and implications as a signed paper return, claim, application or form delivered to a HMRC office.</p>
+
+<p>27.4 Some HMRC Online Services require information to be provided in a paper form. You will be told on screen when this is the case and where appropriate, directed to the appropriate downloadable form.</p>
+
+<p>27.5 Company Tax Returns sent using the online filing service must include the required attachments. A form CT600 sent without the required attachments does not satisfy the filing obligation and the company will be treated as not having made a return.</p>
+
+<h4>Online information services</h4>
+
+<p>28.1 If you wish, you may give authority to another company (within a Group of companies) to view your liabilities and payments records. Pension Scheme Administrators can also give authority for practitioners to act on their behalf. Please note it is your responsibility to keep the authorities up to date and to contact HMRC if you wish to cancel any authority for another company to view your records. HMRC cannot accept any liability arising from a failure on your part to keep HMRC informed of any authority changes.</p>
+
+<h4>General</h4>
+
+<p>29.1 HMRC may revise these Terms and Conditions as services are developed. HMRC may:</p>
+
+<ul>
+<li>use this internet service for any part of HMRC dealings with you in relation to any of the services you are registered for</li>
+
+<li>withdraw or add services and features or change the way in which you may access those services without prior notice - although HMRC shall try to give you notice of any changes</li>
+</ul>
+
+<p>29.2 You can view HMRC Terms and Conditions at any time by following the Terms and Conditions link at the bottom of any Online Service webpage.</p>
+
+<h4>Authorised use</h4>
+
+<p>30.1 This is a protected United Kingdom Government website. Unauthorised access and unauthorised modification are offences under the Computer Misuse Act 1990; it is unlawful therefore to cause damage to it intentionally or to any HMRC electronic facility or data through the knowing transmission of any program, information, code or command.</p>
+
+<p>30.2 Unless otherwise specified, the material featured on this site is protected by <a class="new-window" href="http://www.hmrc.gov.uk/copyright/">Crown Copyright</a>.</p>
+
+<h4>Service access</h4>
+
+<p>31.1 HMRC will try to ensure that the online service is available twenty four hours a day, seven days a week. If the service is interrupted HMRC will restore it as soon as possible. However access to the service may be suspended without notice. If the service is disrupted, it remains your responsibility to comply with any statutory time limits regarding the filing of statements and returns.</p>
+
+<p>31.2 HMRC reserves the right to deny access to the service where it is considered necessary to protect the revenue, for example, to protect the revenue and/or service integrity.</p>
+
+<h4>Information relating to your statutory obligations</h4>
+
+<p>32.1 You can access legal information and guidance concerning your statutory obligations in respect of the various online services by going to the 'Your account' area. You should make sure you are familiar with this information as it will tell you what the statutory requirements for the use of online services are.</p>
+
+<p>32.2 Updates to this information will be placed in the <a class="new-window" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageOnlineServices_FAQs&amp;propertyType=document&amp;columns=1&amp;id=HMCE_PROD1_026374">Legal conditions</a> area which can be accessed via the 'Your account' area. You should ensure that you keep yourself updated as to your legal obligations by checking this area regularly.</p>
+
+<h4>Liability</h4>
+
+<p>33.1 HMRC makes every attempt to ensure the accuracy and reliability of the information contained in the publications and services stored, served and accessed by this Online Service, but this information should not be relied upon as a substitute for formal advice from HMRC. The materials contained on this website are provided for general information only and do not constitute any form of advice.</p>
+
+<p>33.2 HMRC, its employees and Agents will not be responsible for any loss, however arising, from the use of, or reliance on this information. HMRC will not be liable for any special, incidental, indirect or consequential damages of any kind, including, without limitation, those resulting from loss of use, data or profits, however those damages may arise.</p>
+
+<p>33.3 By providing links to other websites, HMRC does not guarantee, approve or endorse the information or products available at these sites, nor does a link necessarily indicate any association with or endorsement of the linked site by HMRC.</p>
+
+<p>33.4 HMRC will not be liable for any disruption or failure to make the system available.</p>
+
+<h4>Data management</h4>
+
+<p>34.1 Where HMRC systems are disrupted due to a system failure, information will be held in a secure file store at the Government Gateway for up to three days. Information will be passed to HMRC systems as soon as possible.</p>
+
+<h4>Paying by Direct Debit using the HMRC Direct Debit online service</h4>
+
+<p>35.1 Please be aware that:</p>
+
+<ul>
+<li>It is your responsibility to ensure that payment is received by HMRC, and has cleared in to the HMRC account, on or before the due date. Failure to do so may result in interest and/or a surcharge.</li>
+
+<li>Setting up a Direct Debit Instruction and payment plan does not constitute agreement by HMRC either to the payment date(s) you enter or to defer pursuit of any debt that is overdue.</li>
+
+<li>A Tax Credit repayment plan will only be accepted if it covers the full liability for the period specified.</li>
+
+<li>A budget payment plan provides the means to make payments towards a future Self Assessment liability. It does not constitute agreement by HMRC either to the payment date(s) you enter or to defer pursuit of any debt that is overdue.</li>
+</ul>
+
+<p>35.2 By granting access to Users and Assistants you are giving that user access to the Direct Debit online service.</p>
+
+<h4>Paying VAT by Direct Debit using the VAT Direct Debit Instruction online service</h4>
+
+<p>36.1 These are the terms and conditions for paying VAT due on returns by Direct Debit (DD).</p>
+
+<p>36.2 To pay by Direct Debit you first need to have registered and enrolled for the online VAT return service.</p>
+
+<p>36.3 Returns for which a DD is to be collected must be made using the online VAT return service.</p>
+
+<p>36.4 You must ensure that your Bank/Building Society will accept Direct Debit Instruction (DDI) for your nominated account. DD collections can only be made subject to their acceptance of the DDI.</p>
+
+<p>36.5 The submission of a DDI will act as confirmation that you accept and will comply with these terms and conditions.</p>
+
+<p>36.6 When submitting a DDI online, you must be authorised to sign for the account. You must be the sole signatory of the account, one of multiple signatories of the account, or authorised to sign on behalf of all the other signatories.</p>
+
+<p>36.7 You must also be acting in accordance with the mandate you have with your Bank/Building Society.</p>
+
+<p>36.8 The account from which your DD is to be collected must be a sterling bank account registered in the UK.</p>
+
+<p>36.9 The amount collected will be the net VAT due to HMRC as declared in the box 5 of your online VAT return. You must ensure that sufficient cleared funds are available in your account to pay the declared amount on collection day. We will inform you of the date for collection online when you submit your return.</p>
+
+<p>36.10 Only the amount declared on your online VAT return will be collected by Direct Debit. You must arrange to pay other VAT liabilities (for example, surcharge, penalties or interest) by alternative payment methods.</p>
+
+<p>36.11 You could be liable to a financial penalty if your completed return and all of the VAT payable are not received by the dates they are due. If, for any reason, you are aware that the Direct Debit collection will fail, you must use an alternative method to pay by the due date.</p>
+
+<p>36.12 The Bank/Building Society Account details which you submit for paying VAT due by DD (and any changes to those details notified to us later) will not affect any other Bank/Building Society account details that we may hold for other purposes i.e. for the repayment of VAT claims.</p>
+
+<p>36.13 You cannot cancel or amend your DDI via our online service. Instead, you should inform your Bank or Building Society and they will automatically advise us of any changes. This includes where your DDI is being transferred to a different Bank or Building Society, or where it is transferred to a different branch within the same Bank/Building Society. We will only be able to make amendments notified via your Bank/Building Society.</p>
+
+<h4>Secure File Transfer Service</h4>
+
+<p>37.1 The Secure File Transfer Service enables files of data to be sent to or received from HMRC. The service is certified to handle data classified as Restricted (Impact Level 3) or below. Security is paramount for this service and participating organisations will need to play their part to ensure that the service is not compromised in any way. Use of the service is by invitation only, and organisations would be expected to complete the registration process before use will be granted. In particular, the organisations should note the following conditions apply for this service.</p>
+
+<p>Organisations:</p>
+
+<ul>
+<li>will agree to hold details of keys securely in accordance with the Certificate Policy of the Certificate Authority issuing the public key certificate</li>
+
+<li>will inform HMRC immediately should their private key become compromised for any reason</li>
+
+<li>will implement systems and processes that conform to the Interface and Design Specifications</li>
+
+<li>will ensure that this service is not used for data classified as Confidential or Secret</li>
+
+<li>acknowledge that the use of the HMRC digital signature on a data file serves only to confirm that the file has come from HMRC and that it does not have any other validity or meaning</li>
+</ul>
+
+<p>Data files:</p>
+
+<ul>
+<li>must be encrypted to RFC 4880 standards using the recipients public encryption key</li>
+
+<li>must be signed before encryption with the senders public signing key</li>
+
+<li>sent to HMRC must have been agreed between the parties and provision made for their processing</li>
+
+<li>must be named in accordance with the naming standards</li>
+
+<li>must be virus free</li>
+</ul>
+
+<p>37.2 Any problems with the use of this service must be reported to the HMRC <a class="new-window" href="https://online.hmrc.gov.uk/information/helpdesk">Online Services Helpdesk</a>.</p>
+
+<h4>Applicable law</h4>
+
+<p>38.1 The Terms and Conditions of this agreement will be construed in accordance with the laws of England and Wales and will be subject to the exclusive jurisdiction of the courts of England and Wales.</p>
+
+<h3 id="agent">Article III. Agents</h3>
+
+<p>39.1 HMRC Online Services allow Agents to file and submit returns and forms (for example Self Assessment tax return, VAT Returns) and make payments on behalf of clients. They also allow Agents that have been authorised by their clients, to access client data and records (for example Self Assessment Statement). You will find full details of the services that are currently available on the HMRC <a class="new-window" href="http://www.hmrc.gov.uk/online/index.htm">Online Services</a> page.</p>
+
+<h4>Authorisation</h4>
+
+<p>40.1 To access a client's data and records the client must have authorised you to act on their behalf.</p>
+
+<p>40.2 The ability to access client data and records is an integral feature of some HMRC Online Services. If HMRC does not hold a valid Agent authority from a client you will not be able to use any part of those online services on behalf of that client other than the 'File only' facility that is available for PAYE, Self Assessment or Corporation Tax.</p>
+
+<h4>Registration</h4>
+
+<p>41.1 You can register as an Agent for HMRC Online Services on the GOV.UK or Government Gateway websites.</p>
+
+<p>41.2 If you register on the GOV.UK website, the details you provide will be passed to the Government Gateway for verification (on behalf of HMRC). If successful, your registration details, including your name and email address (optional), will be stored securely on the Government Gateway system, in accordance with the Gateway privacy policy. You can view the Government Gateway privacy policy on their website.</p>
+
+<p>41.3 Your email address, if provided, may be used by the Government Gateway to communicate with you and to forward messages to you in relation to other Government online services if you choose to register for those services.</p>
+
+<p>41.4 If you register on the GOV.UK website, your registration details may also be stored on HMRC systems. You can view the HMRC <a href="http://www.hmrc.gov.uk/about/privacy.htm">Privacy policy</a> on this website.</p>
+
+<h4>User ID and password</h4>
+
+<p>42.1 Your User ID and password (or Digital Certificate) will be used to verify your identity and to authenticate information you send. They will be held securely on the Government Gateway and will not be made available to government departments.</p>
+
+<p>42.2 The Government Gateway uses the postal address registered on relevant HMRC systems to send you the service Activation Code (if required). After the Gateway has sent this information, your address is deleted from the Government Gateway.</p>
+
+<h4>De-registration</h4>
+
+<p>43.1 De-registration from HMRC Online Services must be done either on the Government Gateway or GOV.UK website.</p>
+
+<h4>Login</h4>
+
+<p>44.1 When registered you can login to HMRC Online Services using your User ID and password (or Digital Certificate) via the GOV.UK website. Your encrypted User ID and password (or Digital Certificate) will be passed to the Government Gateway for authentication.</p>
+
+<h4>Security</h4>
+
+<p>45.1 You must always keep your User ID and password (or Digital Certificate) safe and secret. You can change your password on the GOV.UK or Government Gateway websites.</p>
+
+<p>45.2 If you forget your User ID, you can ask for it to be re-issued either by post or online, using the GOV.UK website. If you forget your password, you can request a replacement to be sent to you either by post or online using the GOV.UK website.</p>
+
+<p>45.3 If you lose both your User ID and password, you will need to contact the HMRC <a class="new-window" href="https://online.hmrc.gov.uk/information/helpdesk">Online Services Helpdesk</a> (details are provided on the GOV.UK website).</p>
+
+<p>45.4 For detailed guidance regarding online security and protection, please follow the link <a href="http://www.hmrc.gov.uk/security/index.htm">Online security - making your online experience as secure as possible</a>.</p>
+
+<h4>Secure mailbox</h4>
+
+<p>46.1 When you register for the first time, a secure online mailbox will be set up for you on the Government Gateway. Some online services may make use of the secure mailbox to send you communications and replies to email questions. For these services, you can view the contents of your secure mailbox on the GOV.UK website.</p>
+
+<p>46.2 You should regularly check your mailbox and delete old messages. Read messages that have been on the system for up to three months from delivery will be archived and removed from your mailbox. Unread messages that have been on the system for up to 12 months from delivery will be archived and removed from your mailbox.</p>
+
+<h4>Statutory notices, reminders and certificates</h4>
+
+<p>47.1 Some online services may be used to issue statutory notices (such as PAYE coding notices) and reminders for your clients, to act on their behalf. You can view the notices and reminders securely on the GOV.UK website, or in most cases using third party software applications. You may also print or save them to your own computer. Statutory notices made available in this way by HMRC will have the same legal validity and implications as a paper statutory notice sent to you by post.</p>
+
+<p>47.2 If you would prefer to continue receiving PAYE notices and reminders, on behalf of a client, by Electronic Data Interchange (EDI) or paper, you can opt out of receiving these over the internet. You can do this on the HMRC website by following the 'Change notice options' link from your 'PAYE At a glance' page. However, HMRC reserve the right to continue sending other information, such as customer service messages and information about tax-free payments, to your online mailbox. If you later wish to change preferences, follow 'Change notice options' link from your 'PAYE At a glance' page.</p>
+
+<h4>Online filing services</h4>
+
+<p>48.1 Some HMRC Online Services (for example Self Assessment) allow authorised Agents and their clients to see details of previously filed returns. Agents should be aware that this means that, where a client changes Agent, any new authorised Agent will be able to view returns filed online by any former authorised Agent(s). Where a former Agent has been the nominee to receive a client's tax repayment, the information on the return includes that Agent's bank account and sort code details.</p>
+
+<p>48.2 When using HMRC online filing services, you must use either HMRC software or, where available, online filing enabled third party software. The software will prompt you to enter your User ID and password (or Digital Certificate) at the appropriate time to verify your identity and authenticate the information you are sending.</p>
+
+<p>48.3 Some HMRC Online Services allow you to send attachments (for example PDF files) with the return. Any attachments you send with the return must be proper and complete and must be able to be viewed by HMRC. If for any reason HMRC cannot view the contents of the attachments, or they are not proper and complete, the obligation to make a return may not be satisfied. Although HMRC will notify you of this as soon as possible if it happens, HMRC cannot guarantee to do so in time for you to avoid incurring penalties.</p>
+
+<p>48.4 An authenticated tax return, claim, application or form sent over the internet and accepted by HMRC systems has the same legal validity and implications as a signed paper return, claim, application or form delivered to a HMRC office.</p>
+
+<p>48.5 Some HMRC Online Services require information to be provided in a paper form. You will be told on screen when this is the case and where appropriate, directed to the appropriate downloadable form.</p>
+
+<p>48.6 Company Tax Returns sent using the online filing service must include the required attachments. A form CT600 sent without the required attachments does not satisfy the filing obligation and the company will be treated as not having made a return.</p>
+
+<p>48.7 Before you send your client's tax return, claim or application you must make a copy and ask them to make a declaration confirming that the content of the return, claim or application is correct to the best of their knowledge and belief. You may then submit the return, claim or application. HMRC advise you, or your client, to keep the copy of the return, claim or application and your client's declaration confirming that the information is correct to the best of their knowledge and belief.</p>
+
+<p>48.8 Where your client is a company, you may complete the declaration on behalf of that client company if the company has authorised you to do so. In such cases you do not need to make a copy of the information before it is sent.</p>
+
+<h4>General</h4>
+
+<p>49.1 HMRC may revise these Terms and Conditions as services are developed. HMRC may:</p>
+
+<ul>
+<li>use this internet service for any part of HMRC dealings with you in relation to any of the services you are registered for</li>
+
+<li>withdraw or add services and features or change the way in which you may access those services without prior notice - although HMRC shall try to give you notice of any changes</li>
+</ul>
+
+<p>49.2 You can view our Terms and Conditions at any time by following the Terms and Conditions link at the bottom of any HMRC Online Service webpage.</p>
+
+<h4>Authorised use</h4>
+
+<p>50.1 This is a protected United Kingdom Government website. Unauthorised access and unauthorised modification are offences under the Computer Misuse Act 1990; it is unlawful therefore to cause damage to it intentionally or to any HMRC electronic facility or data through the knowing transmission of any program, information, code or command.</p>
+
+<p>50.2 Unless otherwise specified, the material featured on this site is protected by <a class="new-window" href="http://www.hmrc.gov.uk/copyright/">Crown Copyright</a>.</p>
+
+<h4>Service access</h4>
+
+<p>51.1 HMRC will try to ensure that the online service is available twenty four hours a day, seven days a week. If the service is interrupted HMRC will restore it as soon as possible. However access to the service may be suspended without notice. If the service is disrupted, it remains your responsibility to comply with any statutory time limits regarding the filing of statements and returns.</p>
+
+<p>51.2 HMRC reserves the right to deny access to the service where it is considered necessary to protect the revenue, for example, to protect the revenue and/or service integrity.</p>
+
+<h4>Information relating to your statutory obligations</h4>
+
+<p>52.1 You can access legal information and guidance concerning your statutory obligations in respect of the various online services by going to the 'Your account' area. You should make sure you are familiar with this information as it will tell you what the statutory requirements for the use of online services are.</p>
+
+<p>52.2 Updates to this information will be placed in the <a class="new-window" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageOnlineServices_FAQs&amp;propertyType=document&amp;columns=1&amp;id=HMCE_PROD1_026374">Legal conditions</a> area which can be accessed via the 'Your account' area. You should ensure that you keep yourself updated as to your legal obligations by checking this area regularly.</p>
+
+<h4>Liability</h4>
+
+<p>53.1 HMRC makes every attempt to ensure the accuracy and reliability of the information contained in the publications and services stored, served and accessed by this web service, but this information should not be relied upon as a substitute for formal advice from HMRC. The materials contained on this website are provided for general information only and do not constitute any form of advice.</p>
+
+<p>53.2 HMRC, its employees and Agents will not be responsible for any loss, however arising, from the use of, or reliance on this information. HMRC will not be liable for any special, incidental, indirect or consequential damages of any kind, including, without limitation, those resulting from loss of use, data or profits, however those damages may arise.</p>
+
+<p>53.3 By providing links to other websites, HMRC does not guarantee, approve or endorse the information or products available at these sites, nor does a link necessarily indicate any association with or endorsement of the linked site by HMRC.</p>
+
+<p>53.4 HMRC will not be liable for any disruption or failure to make the system available.</p>
+
+<h4>Data management</h4>
+
+<p>54.1 Where HMRC systems are disrupted due to a system failure, information will be held in a secure file store at the Government Gateway for up to three days. Information will be passed to HMRC systems as soon as possible.</p>
+
+<h4>Applicable law</h4>
+
+<p>55.1 The Terms and Conditions of this agreement will be construed in accordance with the laws of England and Wales and will be subject to the exclusive jurisdiction of the courts of England and Wales.</p>
+
+<h3 id="shared-workspace">Article IV. Shared Workspace online service</h3>
+
+<p>56.1 As a registered member of the Shared Workspace online service you may use and view service facilities subject to your business needs. Please be aware that your use of these facilities is subject to, and constitutes your acceptance of, these Terms and Conditions from the time of your initial use of the service.</p>
+
+<p>56.2 HMRC may at any time change these Terms and Conditions. Your continuing use of the service after such a change will be construed as your acceptance of the revised Terms and Conditions. In your own interests you should ensure that you re-visit them frequently.</p>
+
+<p>56.3 As a member you must take all reasonable steps to ensure that you do not create, use, store, download, install, distribute or circulate any material including images, text, software or links to websites that:</p>
+
+<ul>
+<li>is or might be considered to be indecent or obscene</li>
+
+<li>is or might be considered to be offensive or abusive, could be taken as a personal attack, or is rude, sexist, racist, or generally distasteful</li>
+
+<li>encourages or promotes activities that make unproductive use of HMRC or each other's time, for example forwarding 'chain mail'</li>
+
+<li>promotes any business or cause, financially or otherwise, whether commercial, political, cultural, ethnic or religious</li>
+
+<li>encourages or promotes any unlawful activity</li>
+
+<li>involves any activity beyond the scope of this online service, for example, any selling or advertising of goods and services</li>
+
+<li>has the potential to damage or overload the HMRC systems, networks and/or external communications</li>
+
+<li>might be defamatory; incur a liability for HMRC or another registered member or have any adverse affect</li>
+
+<li>is protected by copyright laws</li>
+</ul>
+
+<p>56.4 To prevent people who may use your computer at a later date from accessing Shared Workspace information cached on the computer, you must clear the cache of this information when leaving Shared Workspace. To do this please follow the appropriate instructions in your internet browser 'Help' facility.</p>
+
+<p>56.5 For more guidance relating to caching, in particular for customers using the plug-in, please follow the <a class="new-window" href="http://www.hmrc.gov.uk/manuals/swmanual/SW03370.htm">Using Shared Workspace: Customer Home and Remote Working</a> link in the Shared Workspace business manual.</p>
+
+<p>56.6 It is your responsibility to ensure information is stored securely, and in accordance with your organisation's guidelines.</p>
+
+<p>56.7 Some actions are actually criminal offences under the Computer Misuse Act 1990. These include:</p>
+
+<ul>
+<li>unauthorised access to computer material (such as hacking; inappropriate access to customer records and corporate data and systems, including trace/search facilities)</li>
+
+<li>unauthorised access, with the intent to commit (or to help others commit) further offences</li>
+
+<li>unauthorised modification of computer material</li>
+</ul>
+
+<p>56.8 Any information collected via this service will only be used for internal review, and will not be shared with other organisations for commercial purposes.</p>
+
+<p>56.9 All Information Technology (IT) risks are identified, managed and signed off by a senior HMRC officer. Risk assessments are carried out regularly and independently for Shared Workspace.</p>
+
+<p>56.10 HMRC responsibilities and liabilities to you in providing this service and any associated services are limited as set out in HMRC 

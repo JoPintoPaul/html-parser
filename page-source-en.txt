@@ -518,4 +518,4 @@
 
 <p>56.9 All Information Technology (IT) risks are identified, managed and signed off by a senior HMRC officer. Risk assessments are carried out regularly and independently for Shared Workspace.</p>
 
-<p>56.10 HMRC responsibilities and liabilities to you in providing this service and any associated services are limited as set out in HMRC 
+<p>56.10 HMRC responsibilities and liabilities to you in providing this service and any associated services are limited as set out in HMRC <a class="new-window" href="http://www.hmrc.gov.uk/terms/">Disclaimer</a></p>

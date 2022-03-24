@@ -1,0 +1,521 @@
+<h3 id="indivdual">Erthygl I. Unigolion</h3>
+
+<p>1.1 Mae Gwasanaethau Cyllid a Thollau EM (CThEM) yn galluogi Unigolion i anfon gwybodaeth dros y Rhyngrwyd (er enghraifft ffurflen dreth Hunanasesiad, cais am Gofrestriad TAW), bwrw golwg ar gofnodion ar-lein (er enghraifft Datganiad Hunanasesiad) a gwneud taliadau. Yn y dyfodol, mae'n bosibl y caiff gwasanaethau a nodweddion ychwanegol eu hychwanegu. Mae manylion llawn o'r gwasanaethau sydd ar gael ar hyn o bryd ar dudalen <a class="new-window" href="http://www.hmrc.gov.uk/online/index.htm">Gwasanaethau Ar-lein</a> CThEM.</p>
+
+<h4>Cofrestru</h4>
+
+<p>2.1 Gallwch gofrestru fel Unigolyn ar gyfer Gwasanaethau Ar-lein CThEM ar wefannau GOV.UK neu Borth y Llywodraeth.</p>
+
+<p>2.2 Os cofrestrwch ar wefannau GOV.UK, caiff y manylion a ddarparwch eu trosglwyddo i Borth y Llywodraeth er mwyn eu gwireddu (ar ran CThEM). Os yn llwyddiannus, caiff eich manylion cofrestru, gan gynnwys eich enw a chyfeiriad e-bost (dewisol), eu storio'n ddiogel ar system Porth y Llywodraeth, yn unol &#226; pholisi preifatrwydd Porth y Llywodraeth. Gallwch weld polisi preifatrwydd Porth y Llywodraeth ar eu gwefan.</p>
+
+<p>2.3 Gellir defnyddio eich cyfeiriad e-bost, os byddwch wedi ei ddarparu, gan Borth y Llywodraeth er mwyn cyfathrebu gyda chi ac anfon negeseuon atoch mewn perthynas &#226; gwasanaethau ar-lein eraill y Llywodraeth os byddwch yn dewis cofrestru ar gyfer y gwasanaethau hynny.</p>
+
+<p>2.4 Os cofrestrwch ar wefan GOV.UK, gellir storio eich manylion cofrestru ar systemau CThEM hefyd. Gallwch weld <a class="new-window" href="http://www.hmrc.gov.uk/cymraeg/about/privacy.htm">Polisi preifatrwydd</a> CThEM ar wefan GOV.UK.</p>
+
+<h4>Dynodydd Defnyddiwr (ID) a chyfrinair</h4>
+
+<p>3.1 Defnyddir eich Dynodydd Defnyddiwr (ID) a chyfrinair (neu Dystysgrif Ddigidol) i wireddu eich hunaniaeth a dilysu'r wybodaeth a anfonwch. C&#226;nt eu cadw'n ddiogel ar Borth y Llywodraeth ac ni fyddant ar gael i adrannau'r llywodraeth.</p>
+
+<p>3.2 Mae Porth y Llywodraeth yn defnyddio'r cyfeiriad post a gofrestrir ar systemau perthnasol CThEM er mwyn anfon Cod Cychwyn y gwasanaeth atoch (os oes ei angen). Ar &#244;l i Borth y Llywodraeth anfon yr wybodaeth hon, caiff eich cyfeiriad ei ddileu o Borth y Llywodraeth.</p>
+
+<h4>Dadgofrestru</h4>
+
+<p>4.1 Rhaid dadgofrestru o Wasanaethau Ar-lein CThEM naill ai ar wefan Porth y Llywodraeth neu wefannau GOV.UK.</p>
+
+<h4>Mewngofnodi</h4>
+
+<p>5.1 Pan fyddwch wedi cofrestru, gallwch fewngofnodi i wefan GOV.UK trwy ddefnyddio eich Dynodydd Defnyddiwr (ID) a chyfrinair (neu Dystysgrif Ddigidol) i gyrchu Gwasanaethau Ar-lein CThEM. Caiff eich Dynodydd Defnyddiwr (ID) a chyfrinair wedi eu hamgryptio (neu Dystysgrif Ddigidol) eu trosglwyddo i Borth y Llywodraeth er mwyn eu dilysu.</p>
+
+<h4>Diogelwch</h4>
+
+<p>6.1 Rhaid i chi gadw eich Dynodydd Defnyddiwr (ID) a'ch cyfrinair (neu Dystysgrif Ddigidol) yn ddiogel ac yn gyfrinachol bob amser. Gallwch newid eich cyfrinair ar wefannau GOV.UK neu Borth y Llywodraeth.</p>
+
+<p>6.2 Os anghofiwch eich Dynodydd Defnyddiwr (ID), gallwch ofyn iddo gael ei ail-anfon atoch naill ai drwy'r post neu ar-lein, trwy ddefnyddio gwefan GOV.UK. Os anghofiwch eich cyfrinair, gallwch ofyn am un arall gael ei anfon atoch naill ai drwy'r post neu ar-lein, trwy ddefnyddio gwefan GOV.UK.</p>
+
+<p>6.3 Os collwch eich Dynodydd Defnyddiwr (ID) yn ogystal &#226;'ch cyfrinair, bydd angen i chi gysylltu &#226; Chanolfan Gyswllt Gymraeg CThEM ar 0300 200 1900.</p>
+
+<p>6.4 I gael arweiniad manwl yngl&#375;n &#226; diogelwch ar-lein, dilynwch y cysylltiad <a class="new-window" href="http://www.hmrc.gov.uk/security/index.htm">Diogelwch ar-lein - sicrhau bod mynd ar-lein mor ddiogel &#226; phosibl</a>.</p>
+
+<h4>Blwch post diogel</h4>
+
+<p>7.1 Pan fyddwch yn cofrestru am y tro cyntaf caiff blwch post diogel ar-lein ei greu ar eich cyfer ar Borth y Llywodraeth. Efallai y bydd rhai gwasanaethau'n defnyddio'r blwch post diogel er mwyn anfon atoch negeseuon ac atebion i gwestiynau ar e-bost. Gallwch weld cynnwys eich blwch post diogel ar gyfer y gwasanaethau hyn ar wefan GOV.UK.</p>
+
+<p>7.2 Dylech edrych yn eich blwch post yn rheolaidd a dileu hen negeseuon. Bydd negeseuon sydd wedi cael eu darllen ac wedi bod ar y system am hyd at dri mis ers y dyddiad eu hanfonwyd yn cael eu rhoi mewn archif a'u dileu o'ch blwch post. Bydd negeseuon sydd heb eu darllen ac wedi bod ar y system am hyd at 12 mis ers y dyddiad eu hanfonwyd yn cael eu harchifo a'u dileu o'ch blwch post.</p>
+
+<p>7.3 Os dewiswch gael y canlynol drwy ddull electronig - hysbysiadau statudol, penderfyniadau, amcangyfrifon a nodynnau atgoffa sy'n ymwneud &#226;'ch materion treth a chredydau treth (a allai gynnwys hysbysiad i gyflwyno Ffurflen Dreth, adnewyddu'ch credydau treth, gwneud taliad neu wybodaeth am faterion eraill sy'n gysylltiedig) - yna caiff y rhain eu hanfon i flwch post diogel ar-lein penodedig ac ar wah&#226;n. Mae'r blwch post hwn yn wahanol i'r blwch post diogel sydd wedi'i sefydlu ar eich cyfer ar Borth y Llywodraeth.</p>
+
+<h4><b>Hysbysiadau statudol, penderfyniadau, amcangyfrifon a nodynnau atgoffa sy'n ymwneud &#226;'ch materion treth a chredydau treth</b></h4>
+
+<p>8.1 I anfon hysbysiadau statudol, penderfyniadau, amcangyfrifon a nodynnau atgoffa yn ymwneud &#226;'ch materion treth a chredydau treth, gellir defnyddio rhai gwasanaethau ar-lein neu'r blwch post ar-lein diogel. Gallwch fwrw golwg ar y rhain yn ddiogel ar wefan GOV.UK. Gallwch hefyd eu hargraffu neu eu cadw ar eich cyfrifiadur eich hun. Bydd gan yr hysbysiadau statudol, penderfyniadau, amcangyfrifon a nodynnau atgoffa sy'n ymwneud &#226;'ch materion treth a chredydau treth (sydd ar gael yn y modd hwn gan CThEM), yr un effaith cyfreithiol &#226;'r hysbysiadau statudol, penderfyniadau, amcangyfrifon a nodynnau atgoffa sy'n ymwneud &#226;'ch materion treth a chredydau treth a anfonir atoch drwy'r post.</p>
+
+<p>8.2 Gofynnir i chi roi'ch caniat&#226;d cyn bo CThEM yn anfon hysbysiadau statudol, penderfyniadau, amcangyfrifon a nodynnau atgoffa yn ymwneud &#226;'ch materion treth a chredydau treth atoch, gan ddefnyddio'r blwch post ar-lein diogel a gyfeiriwyd ato ym mharagraff 7.3. Pan fydd hyn yn digwydd gofynnir i chi roi hwn ar y sgr&#238;n. Os byddwch yn rhoi'ch caniat&#226;d bydd angen i chi gofrestru cyfeiriad e-bost gyda CThEM. Bydd CThEM yn gwireddu'r manylion hyn gyda chi. Pan anfonir hysbysiadau statudol, penderfyniadau, amcangyfrifon a nodynnau atgoffa yn ymwneud &#226;'ch materion treth a chredydau treth atoch drwy ddefnyddio'ch blwch post diogel ar-lein, caiff e-bost hysbysu hefyd ei anfon at eich cyfeiriad e-bost cofrestredig i roi gwybod i chi am hyn. Dylech hefyd gadw manylion eich cyfeiriad e-bost cofrestredig yn gyfoes a rhoi gwybod i CThEM am newidiadau.</p>
+
+<p>8.3 Os byddwch yn rhoi'r caniat&#226;d a gyfeirir ato ym mharagraff 8.2, gofynnir i chi hefyd gofrestru rhif ff&#244;n gyda CThEM.&#160; &#160;Pan anfonir hysbysiadau statudol, penderfyniadau, amcangyfrifon a nodynnau atgoffa yn ymwneud &#226;'ch materion treth a chredydau treth atoch, efallai y bydd CThEM hefyd yn anfon neges destun i'r rhif ff&#244;n hwn, neu i rif ff&#244;n yn ystod y dydd yr ydych eisoes wedi'i roi i CThEM, i roi gwybod i chi am hyn. Dylech hefyd gadw manylion eich rhif ff&#244;n cofrestredig yn gyfoes a rhoi gwybod i CThEM am newidiadau.</p>
+
+<h4>Gwasanaethau cyflwyno ar-lein</h4>
+
+<p>9.1 Wrth ddefnyddio gwasanaethau cyflwyno ar-lein CThEM, rhaid i chi ddefnyddio naill ai meddalwedd neu, lle bo ar gael, meddalwedd trydydd parti sy'n galluogi cyflwyno ar-lein. Bydd y meddalwedd yn eich annog i nodi eich Dynodydd Defnyddiwr (ID) a chyfrinair (neu Dystysgrif Ddigidol) ar yr adeg briodol er mwyn gwireddu eich hunaniaeth a dilysu'r wybodaeth a anfonwch.</p>
+
+<p>9.2 Mae rhai gwasanaethau ar-lein yn eich galluogi i anfon atodiadau (er enghraifft ffeiliau PDF) gyda'r ffurflen dreth. Mae'n rhaid i unrhyw atodiadau a anfonwch gyda'r ffurflen fod yn gywir ac yn gyflawn a rhaid eu bod yn gallu cael eu gweld gan CThEM. Os, am unrhyw reswm, ni all CThEM fwrw golwg ar gynnwys yr atodiadau, neu nid ydynt yn gywir a chyflawn, efallai na fodlonir yr ymrwymiad i wneud ffurflen dreth. Er bydd CThEM yn eich hysbysu o hyn cyn gynted &#226; phosib os bydd hyn yn digwydd, ni all CThEM warantu i wneud hynny mewn pryd er mwyn osgoi i gosbau cael eu codi arnoch.</p>
+
+<p>9.3 Mae gan ffurflenni treth, ceisiadau, ffurflenni cais neu ffurflenni wedi'u dilysu a anfonir dros y Rhyngrwyd ac a dderbynnir gan systemau CThEM yr un dilysrwydd cyfreithiol ac oblygiadau &#226; ffurflenni treth papur, ceisiadau neu ffurflenni sydd wedi'u llofnodi ac a anfonir i swyddfa CThEM.</p>
+
+<p>9.4 Mae rhai Gwasanaethau Ar-lein CThEM yn gofyn bod gwybodaeth yn cael ei darparu ar ffurflen bapur. Dywedir wrthych ar sgrin pan mai hyn yw'r achos, a lle'n briodol cewch eich cyfeirio at y ffurflen lawrlwythadwy briodol.</p>
+
+<h4>Cyffredinol</h4>
+
+<p>10.1 Gall CThEM ddiwygio'r Telerau ac Amodau hyn wrth i wasanaethau gael eu datblygu. Gall CThEM:</p>
+
+<ul>
+<li>ddefnyddio'r gwasanaeth rhyngrwyd hwn ar gyfer unrhyw ran o ddeliadau CThEM &#226; chi mewn perthynas ag unrhyw un o'r gwasanaethau rydych wedi cofrestru ar eu cyfer</li>
+
+<li>ychwanegu neu dynnu n&#244;l gwasanaethau a nodweddion neu newid y modd y gallwch gyrchu'r gwasanaethau hynny heb raghysbysiad - er bydd CThEM yn ceisio rhoi hysbysiad i chi o unrhyw newidiadau</li>
+</ul>
+
+<p>10.2 Gallwch fwrw golwg ar Delerau ac Amodau CThEM ar unrhyw adeg drwy ddilyn y cysylltiad Telerau ac Amodau ar waelod unrhyw dudalen we Gwasanaeth Ar-lein CThEM.</p>
+
+<h4>Defnydd awdurdodedig</h4>
+
+<p>11.1 Mae hwn yn wefan wedi'i ddiogelu sy'n perthyn i Lywodraeth y Deyrnas Unedig. Mae cyrchu heb awdurdod ac addasu heb awdurdod yn droseddau o dan Ddeddf Camddefnyddio Cyfrifiaduron 1990; mae'n anghyfreithlon felly i achosi difrod i unrhyw gyfleuster electronig neu ddata sy'n perthyn i CThEM yn fwriadol drwy drosglwyddo yn wybodus unrhyw raglen, wybodaeth, cod neu orchymyn.</p>
+
+<p>11.2 Oni nodir fel arall, mae'r deunydd a nodir ar y wefan wedi'i ddiogelu gan <a class="new-window" href="http://www.hmrc.gov.uk/cymraeg/copyright/">Hawlfraint y Goron</a>.</p>
+
+<h4>Cyrchu gwasanaeth</h4>
+
+<p>12.1 Bydd CThEM yn ceisio sicrhau bydd y gwasanaeth ar-lein ar gael dau ddeg pedwar awr y dydd, saith diwrnod yr wythnos. Os ymyrrir ar y gwasanaeth bydd CThEM yn ei adfer cyn gynted &#226; phosib. Gellir atal mynediad i'r gwasanaeth heb rybudd fodd bynnag. Os ymyrrir &#226;'r gwasanaeth, eich cyfrifoldeb chi yw cydymffurfio ag unrhyw gyfyngiadau amser mewn perthynas &#226; chyflwyno datganiadau a ffurflenni treth.</p>
+
+<p>12.2 Mae gan CThEM yr hawl i wrthod mynediad i'r gwasanaeth lle ystyrir ei fod yn angenrheidiol i warchod y cyllid, er enghraifft i warchod y cyllid a/neu gywirdeb y gwasanaeth.</p>
+
+<h4>Gwybodaeth mewn perthynas &#226;'ch ymrwymiadau statudol</h4>
+
+<p>13.1 Gallwch gyrchu gwybodaeth gyfreithiol ac arweiniad sy'n ymwneud &#226;'ch ymrwymiadau statudol mewn perthynas &#226;'r gwasanaethau ar-lein amrywiol drwy fynd i'r adran 'Eich cyfrif'. Dylech sicrhau eich bod yn gyfarwydd &#226;'r wybodaeth hon gan y bydd yn dweud wrthych beth yw'r gofynion statudol ar gyfer defnydd y gwasanaethau ar-lein.</p>
+
+<p>13.2 Bydd diweddariadau i'r wybodaeth hon yn cael eu gosod yn yr adran <a class="new-window" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageOnlineServices_ShowContent&amp;id=HMCE_PROD1_031485&amp;propertyType=document">Amodau cyfreithiol</a>. Mae modd cael mynediad iddo drwy'r adran 'Eich cyfrif'. Dylech sicrhau eich bod yn cadw eich hunan yn ymwybodol o'ch ymrwymiadau cyfreithiol drwy edrych ar yr adran hon yn rheolaidd.</p>
+
+<h4>Rhwymedigaeth</h4>
+
+<p>14.1 Mae CThEM yn gwneud pob ymgais i sicrhau cywirdeb a dibynadwyedd yr wybodaeth sydd wedi ei chynnwys yn y cyhoeddiadau a'r gwasanaethau a storiwyd, a wasanaethir ac a gyrchir gan y gwasanaeth we hwn, ond ni ddylid dibynnu ar yr wybodaeth hon fel amnewidyn ar gyfer cyngor ffurfiol gan CThEM. Darperir y deunyddiau ar y wefan hon ar gyfer gwybodaeth gyffredinol yn unig ac nid ydynt yn gyfwerth ag unrhyw fath o gyngor.</p>
+
+<p>14.2 Ni fydd CThEM, ei cyflogeion ac Asiantau yn gyfrifol am unrhyw golled, fodd bynnag, sy'n codi o ganlyniad i'r defnydd o, neu'r ddibyniaeth ar yr wybodaeth hon. Ni fydd CThEM yn atebol am unrhyw ddifrod arbennig, cysylltiedig, anuniongyrchol neu ddilynol o unrhyw fath, gan gynnwys, heb gyfyngiad, difrod sy'n digwydd o ganlyniad i golli defnydd, data neu elw, sut bynnag y bydd y difrodau hynny'n digwydd.</p>
+
+<p>14.3 Drwy ddarparu cysylltiadau i wefannau eraill, nid yw CThEM yn gwarantu, cymeradwyo neu gefnogi'r wybodaeth neu gynhyrchion sydd ar gael ar y gwefannau hyn. Nid yw cysylltiad yn dynodi chwaith unrhyw gysylltiad gyda, neu gefnogaeth o'r wefan gysylltiedig gan CThEM.</p>
+
+<p>14.4 Ni fydd CThEM yn atebol am unrhyw ymyrraeth neu fethiant mewn perthynas ag argaeledd y system.</p>
+
+<h4>Rheolaeth data</h4>
+
+<p>15.1 Lle caiff systemau CThEM eu haflonyddu o ganlyniad i fethiant system, caiff gwybodaeth ei dal mewn storfa ddata diogel ar Borth y Llywodraeth am hyd at dri diwrnod. Caiff gwybodaeth ei phasio at systemau CThEM cyn gynted &#226; phosib.</p>
+
+<h4>Talu drwy Ddebyd Uniongyrchol gan ddefnyddio gwasanaeth Debyd Uniongyrchol Ar-lein CThEM</h4>
+
+<p>16.1 Dylech fod yn ymwybodol:</p>
+
+<ul>
+<li>Mai eich cyfrifoldeb chi yw sicrhau y derbynnir taliad gan CThEM, a'i fod wedi'i glirio i gyfrif CThEM, ar neu cyn y dyddiad dyledus. Gall methiant i wneud hynny olygu llog a/neu ordal.</li>
+
+<li>Nid yw sefydlu Cyfarwyddyd Debyd Uniongyrchol a chynllun talu yn gyfwerth i gytundeb gan CThEM, naill ai mewn perthynas &#226; dyddiad(au) y taliad rydych yn nodi neu mewn perthynas &#226; gohirio unrhyw gais am ddyled sydd yn orddyledus.</li>
+
+<li>Bydd cynllun ad-dalu Credydau Treth dim ond yn cael ei dderbyn os yw'n cwmpasu'r rhwymedigaeth lawn ar gyfer y cyfnod penodol.</li>
+
+<li>Mae cynllun taliadau cyllidebol yn darparu'r dulliau i wneud taliadau tuag at rwymedigaeth Hunanasesiad. Nid yw'n gyfwerth i gytundeb gan CThEM, naill ai mewn perthynas &#226; dyddiad(au) y taliad rydych yn nodi neu mewn perthynas &#226; gohirio unrhyw gais am ddyled sydd yn orddyledus.</li>
+</ul>
+
+<p>16.2 Trwy roi mynediad i Ddefnyddwyr a Chynorthwywyr rydych yn rhoi mynediad i'r gwasanaeth Debyd Uniongyrchol ar-lein i'r defnyddiwr hwnnw.</p>
+
+<h4>Talu TAW drwy Ddebyd Uniongyrchol gan ddefnyddio'r gwasanaeth ar-lein Cyfarwyddwyd Debyd Uniongyrchol TAW</h4>
+
+<p>17.1 Dyma'r telerau ac amodau ar gyfer talu TAW sy'n ddyledus ar ffurflenni treth drwy Ddebyd Uniongyrchol.</p>
+
+<p>17.2 I dalu drwy Ddebyd Uniongyrchol bydd yn rhaid eich bod wedi cofrestru ac ymrestru yn gyntaf ar gyfer y gwasanaeth TAW ar-lein.</p>
+
+<p>17.3 Rhaid cyflwyno'r Ffurflenni Treth y cesglir Debyd Uniongyrchol ar eu cyfer gan ddefnyddio'r gwasanaeth ffurflenni TAW ar-lein.</p>
+
+<p>17.4 Sicrhewch y bydd eich Banc/Cymdeithas Adeiladu yn derbyn Cyfarwyddyd Debyd Uniongyrchol ar gyfer eich cyfrif enwebedig. Gellir dim ond gwneud casgliadau Debyd Uniongyrchol ar yr amod eu bod yn derbyn Cyfarwyddyd Debyd Uniongyrchol.</p>
+
+<p>17.5 Bydd cyflwyno Cyfarwyddyd Debyd Uniongyrchol yn gweithredu fel cadarnhad eich bod yn derbyn ac y byddwch yn cydymffurfio &#226;'r telerau ac amodau hyn.</p>
+
+<p>17.6 Wrth gyflwyno Cyfarwyddyd Debyd Uniongyrchol ar-lein, mae'n rhaid eich bod wedi eich awdurdodi i lofnodi dros y cyfrif. Rhaid mai chi yw llofnodydd unigol y cyfrif, un o lofnodwyr lluosog y cyfrif, neu eich bod wedi eich awdurdodi i lofnodi ar ran yr holl lofnodwyr eraill.</p>
+
+<p>17.7 Rhaid eich bod hefyd yn gweithredu yn unol &#226;'r mandad sydd gennych &#226;'ch Banc/Cymdeithas Adeiladu.</p>
+
+<p>17.8 Rhaid bod y cyfrif y cesglir eich Debyd Uniongyrchol ohono yn gyfrif banc sterling sydd wedi'i gofrestru yn y DU.</p>
+
+<p>17.9 Y swm a gesglir bydd y TAW net sy'n ddyledus i CThEM fel y datganwyd ym mlwch 5 eich ffurflen TAW ar-lein. Rhaid i chi sicrhau fod digon o arian wedi'i glirio ar gael yn eich cyfrif i dalu'r swm sydd wedi'i ddatgan ar y diwrnod casglu. Byddwn yn eich hysbysu o'r dyddiad ar gyfer casglu ar-lein pan fyddwch yn cyflwyno eich ffurflen dreth.</p>
+
+<p>17.10 Dim ond y swm sydd wedi'i ddatgan ar eich ffurflen TAW ar-lein fydd yn cael ei gasglu drwy Ddebyd Uniongyrchol. Mae'n rhaid i chi drefnu i dalu rhwymedigaethau eraill TAW (er enghraifft, gordaliadau, cosbau neu log) drwy ddulliau talu gwahanol.</p>
+
+<p>17.11 Gallech fod yn agored i gosb ariannol os na dderbynnir eich ffurflen dreth wedi'i chwblhau a'r holl TAW sy'n daladwy erbyn y dyddiadau maent yn ddyledus. Os, am unrhyw reswm, rydych yn ymwybodol y bydd y casgliad Debyd Uniongyrchol yn methu, mae'n rhaid i chi ddefnyddio dull gwahanol er mwyn talu erbyn y dyddiad dyledus.</p>
+
+<p>17.12 Ni fydd y manylion cyfrif Banc/Cymdeithas Adeiladu rydych yn eu cyflwyno ar gyfer talu TAW drwy Ddebyd Uniongyrchol (ac unrhyw newidiadau i'r manylion hynny a hysbysir i ni'n hwyrach) yn effeithio ar unrhyw fanylion cyfrif Banc/Cymdeithas Adeiladu arall efallai sydd gennym at ddibenion eraill h.y. ar gyfer ad-dalu ceisiadau TAW.</p>
+
+<p>17.13 Ni allwch ganslo neu ddiwygio eich Cyfarwyddyd Debyd Uniongyrchol drwy ein gwasanaeth ar-lein. Yn hytrach, dylech hysbysu eich Banc/Cymdeithas Adeiladu a byddant yn ein hysbysu'n awtomatig am unrhyw newidiadau. Mae hyn yn cynnwys pan gaiff eich Cyfarwyddyd Debyd Uniongyrchol ei drosglwyddo i Fanc neu Gymdeithas Adeiladu wahanol, neu pan gaiff ei drosglwyddo i gangen arall o fewn yr un Banc/Cymdeithas Adeiladu. Byddwn dim ond yn gallu gwneud newidiadau a hysbyswyd drwy eich Banc/Cymdeithas Adeiladu.</p>
+
+<h4>Y gyfraith gymwys</h4>
+
+<p>18.1 Bydd Telerau ac Amodau'r cytundeb hwn yn cael eu dehongli yn unol &#226; chyfreithiau Cymru a Lloegr a byddant yn amodol ar awdurdodaeth unigryw llysoedd Cymru a Lloegr.</p>
+
+<h3 id="organisation">Erthygl II. Sefydliadau</h3>
+
+<p>19.1 Mae Gwasanaethau Ar-lein CThEM yn caniat&#225;u Sefydliadau (gan gynnwys Ymddiriedolaethau, Gweinyddwyr ac Ymarferwyr Cynlluniau Pensiwn) i anfon gwybodaeth ar y Rhyngrwyd (er enghraifft, datganiadau TWE, Ffurflenni Treth Cwmni) a gweld cofnodion ar-lein (er enghraifft rhwymedigaethau a thaliadau). Yn y dyfodol, mae'n bosibl y caiff gwasanaethau a nodweddion eu hychwanegu. Mae manylion llawn o'r gwasanaethau sydd ar gael ar hyn o bryd ar dudalen <a class="new-window" href="http://www.hmrc.gov.uk/online/index.htm">Gwasanaethau Ar-lein</a> CThEM.</p>
+
+<h4>Cofrestru</h4>
+
+<p>20.1 Gallwch gofrestru ar gyfer Gwasanaethau Ar-lein CThEM ar ran Sefydliad ar wefannau GOV.UK neu Borth y Llywodraeth.</p>
+
+<p>20.2 Os cofrestrwch ar wefannau GOV.UK, caiff y manylion a ddarparwch eu trosglwyddo i Borth y Llywodraeth er mwyn eu gwireddu (ar ran CThEM). Os yn llwyddiannus, caiff eich manylion cofrestru, gan gynnwys eich enw a chyfeiriad e-bost (dewisol), eu storio'n ddiogel ar system Porth y Llywodraeth, yn unol &#226; pholisi preifatrwydd Porth y Llywodraeth. Gallwch weld polisi preifatrwydd Porth y Llywodraeth ar eu gwefan.</p>
+
+<p>20.3 Gellir defnyddio eich cyfeiriad e-bost, os byddwch wedi ei ddarparu, gan Borth y Llywodraeth er mwyn cyfathrebu gyda chi ac anfon negeseuon atoch mewn perthynas &#226; gwasanaethau ar-lein eraill y Llywodraeth os byddwch yn dewis cofrestru ar gyfer y gwasanaethau hynny.</p>
+
+<p>20.4 Os cofrestrwch ar wefan GOV.UK, gellir storio eich manylion cofrestru ar systemau CThEM hefyd. Gallwch weld <a class="new-window" href="http://www.hmrc.gov.uk/cymraeg/about/privacy.htm">Polisi preifatrwydd</a> CThEM ar wefan GOV.UK.</p>
+
+<h4>Dynodydd Defnyddiwr (ID) a chyfrinair</h4>
+
+<p>21.1 Defnyddir eich Dynodydd Defnyddiwr (ID) a chyfrinair (neu Dystysgrif Ddigidol) i wireddu eich hunaniaeth a dilysu'r wybodaeth a anfonwch. C&#226;nt eu cadw'n ddiogel ar Borth y Llywodraeth ac ni fyddant ar gael i adrannau'r llywodraeth.</p>
+
+<p>21.2 Mae Porth y Llywodraeth yn defnyddio'r cyfeiriad post a gofrestrir ar systemau perthnasol CThEM er mwyn anfon Cod Cychwyn y gwasanaeth (os oes ei angen). Ar &#244;l i Borth y Llywodraeth anfon yr wybodaeth hon, caiff eich cyfeiriad ei ddileu o Borth y Llywodraeth.</p>
+
+<h4>Dadgofrestru</h4>
+
+<p>22.1 Rhaid dadgofrestru o Wasanaethau Ar-lein CThEM naill ai ar wefan Porth y Llywodraeth neu wefannau GOV.UK.</p>
+
+<h4>Mewngofnodi</h4>
+
+<p>23.1 Pan fyddwch wedi cofrestru, gallwch fewngofnodi i wefan GOV.UK trwy ddefnyddio eich Dynodydd Defnyddiwr (ID) a chyfrinair (neu Dystysgrif Ddigidol) i gyrchu Gwasanaethau Ar-lein CThEM. Caiff eich Dynodydd Defnyddiwr (ID) a chyfrinair wedi eu hamgryptio (neu Dystysgrif Ddigidol) eu trosglwyddo i Borth y Llywodraeth er mwyn eu dilysu.</p>
+
+<h4>Diogelwch</h4>
+
+<p>24.1 Rhaid i chi gadw eich Dynodydd Defnyddiwr a'ch cyfrinair (neu Dystysgrif Ddigidol) yn ddiogel ac yn gyfrinachol bob amser. Gallwch newid eich cyfrinair ar wefannau GOV.UK neu Borth y Llywodraeth.</p>
+
+<p>24.2 Os anghofiwch eich Dynodydd Defnyddiwr (ID), gallwch ofyn am iddo gael ei ail-anfon atoch naill ai drwy'r post neu ar-lein, trwy ddefnyddio gwefan GOV.UK. Os anghofiwch eich cyfrinair, gallwch ofyn am un arall gael ei anfon atoch naill ai drwy'r post neu ar-lein, trwy ddefnyddio gwefan GOV.UK.</p>
+
+<p>24.3 Os collwch eich Dynodydd defnyddiwr (ID) yn ogystal &#226;'ch cyfrinair, bydd angen i chi gysylltu &#226; Chanolfan Gyswllt Cymraeg CThEM ar 0300 200 1900.</p>
+
+<p>24.4 I gael arweiniad manwl yngl&#375;n &#226; diogelwch ar-lein, dilynwch y cysylltiad <a class="new-window" href="https://www.gov.uk/dealing-with-hmrc/phishing-scams">Diogelwch ar-lein - sicrhau bod mynd ar-lein mor ddiogel &#226; phosibl</a>.</p>
+
+<h4>Blwch post diogel</h4>
+
+<p>25.1 Pan fyddwch yn cofrestru am y tro cyntaf caiff blwch post diogel ar-lein ei greu ar eich cyfer ar Borth y Llywodraeth. Efallai y bydd rhai gwasanaethau'n defnyddio'r blwch post diogel er mwyn anfon negeseuon ac atebion i gwestiynau ar e-bost atoch. Gallwch weld cynnwys eich blwch post diogel ar gyfer y gwasanaethau hyn ar wefan GOV.UK.</p>
+
+<p>25.2 Dylech edrych yn eich blwch post yn rheolaidd a dileu hen negeseuon. Bydd negeseuon sydd wedi cael eu darllen ac wedi bod ar y system am hyd at dri mis ers y dyddiad eu hanfonwyd yn cael eu harchifo a'u dileu o'ch blwch post. Bydd negeseuon sydd heb eu darllen ac wedi bod ar y system am hyd at 12 mis ers y dyddiad eu hanfonwyd yn cael eu harchifo a'u dileu o'ch blwch post.</p>
+
+<h4>Hysbysiadau statudol, nodion atgoffa a thystysgrifau</h4>
+
+<p>26.1 Efallai y caiff rhai gwasanaethau ar-lein eu defnyddio i anfon hysbysiadau statudol (megis hysbysiadau cod TWE) a nodion atgoffa atoch. Gallwch weld yr hysbysiadau a'r nodion atgoffa yn ddiogel ar wefan CThEM neu yn y rhan fwyaf o achosion trwy ddefnyddio rhaglenni meddalwedd trydydd parti. Gallwch hefyd eu hargraffu neu eu cadw ar eich cyfrifiadur eich hun. Bydd gan hysbysiadau statudol CThEM sydd ar gael yn y dull hwn yr un dilysrwydd a gobygliadau cyfreithiol a hysbysiadau statudol papur a anfonir drwy'r post.</p>
+
+<p>26.2 Os yw'n well gennych barhau i dderbyn hysbysiadau TWE a nodion atgoffa trwy Gyfnewid Data Electronig (EDI) neu ar bapur, gallwch ddewis peidio &#226;'u derbyn dros y rhyngrwyd. Gallwch wneud hyn ar wefan CThEM trwy ddilyn y cysylltiad 'Newid opsiynau hysbysiadau' o'r dudalen 'TWE Ar gip'. Fodd bynnag, mae CThEM yn cadw'r hawl i barhau i anfon gwybodaeth arall, er enghraifft negeseuon gwasanaethau cwsmer a gwybodaeth yngl&#375;n &#226; thaliadau sy'n rhydd o dreth atoch drwy eich blwch post ar-lein. Os byddwch am newid dewisiadau nes ymlaen, dilynwch y cysylltiad 'Newid opsiynau hysbysiadau' o'r dudalen 'TWE Ar gip'.</p>
+
+<p>26.3 Os ydych yn Weinyddwr neu'n Ymarferydd Cynllun Pensiwn ac rydych wedi cofrestru a rhoi ar waith Gwasanaeth Cynlluniau Pensiwn CThEM byddwn yn anfon hysbysiadau, nodion atgoffa a thystysgrifau atoch ar y rhyngrwyd yn awtomatig. Fodd bynnag gallwch ddewis eu derbyn ar bapur yn ogystal. Bydd gan hysbysiadau statudol (megis cydnabyddiaeth bod Cynllun Pensiwn wedi ei gofrestru) sydd ar y rhyngrwyd yr un dilysrwydd a gobygliadau cyfreithiol a hysbysiadau statudol papur a anfonir drwy'r post.</p>
+
+<h4>Gwasanaethau cyflwyno ar-lein</h4>
+
+<p>27.1 Pan fyddwch yn defnyddio gwasanaethau cyflwyno ar-lein CThEM, rhaid i chi ddefnyddio naill ai meddalwedd CThEM neu, pan fo ar gael, meddalwedd trydydd parti sy'n eich galluogi i gyflwyno ar-lein. 21.1 Bydd y meddalwedd yn gofyn i chi nodi ar yr adeg briodol Dynodydd Defnyddiwr (ID) a chyfrinair (neu Dystysgrif Ddigidol) er mwyn gwireddu eich hunaniaeth a dilysu'r wybodaeth a anfonwch.</p>
+
+<p>27.2 Mae rhai gwasanaethau ar-lein yn eich caniat&#225;u i anfon atodiadau (er enghraifft ffeiliau PDF) gyda'r ffurflen dreth. Rhaid i unrhyw atodiadau a anfonwch gyda'r ffurflen fod yn briodol ac yn gyflawn a rhaid bod CThEM yn gallu eu gweld. Os am unrhyw reswm na all CThEM weld cynnwys yr atodiadau, neu os nad ydynt yn briodol ac yn gyflawn, efallai na fodlonir eich ymrwymiad i gyflwyno ffurflen dreth. Er y bydd CThEM yn eich hysbysu am hyn cyn gynted &#226; phosibl, ni all CThEM warantu gwneud hynny mewn da bryd er mwyn i chi osgoi talu cosbau.</p>
+
+<p>27.3 Mae gan ffurflen dreth, hawliad, cais neu ffurflen sydd wedi eu dilysu a'u hanfon ar y rhyngrwyd a'u derbyn gan systemau CThEM yr un dilysrwydd a gobygliadau cyfreithiol a ffurflen dreth bapur, hawliad, cais neu ffurflen sydd wedi eu llofnodi a'u hanfon i swyddfa CThEM.</p>
+
+<p>27.4 Mae rhai Gwasanaethau Ar-lein CThEM yn gofyn i chi gyflwyno gwybodaeth ar bapur. Dywedir wrthych ar y sgrin os mai dyma'r achos a phan yn briodol cewch eich tywys at y ffurflen briodol er mwyn ei lawrlwytho.</p>
+
+<p>27.5 Rhaid i Ffurflenni Treth Cwmni a anfonir trwy ddefnyddio'r gwasanaeth cyflwyno ar-lein gynnwys yr atodiadau y gofynnir amdanynt. Ni fydd ffurflen CT600 a anfonwyd heb yr atodiadau y gofynnir amdanynt yn bodloni'r ymrwymiadau cyflwyno a chaiff y cwmni ei drin fel petai heb gyflwyno ffurflen dreth.</p>
+
+<h4>Gwasanaethau gwybodaeth ar-lein</h4>
+
+<p>28.1 Os dymunwch gallwch awdurdodi cwmni arall (o fewn gr&#373;p o gwmn&#239;au) i weld eich cofnodion rhwymedigaethau a thaliadau. Gall Gweinyddwyr Cynlluniau Pensiwn hefyd awdurdodi ymarferwyr i weithredu ar eu rhan. Sylwer, eich cyfrifol chi yw rhoi'r wybodaeth ddiweddaraf i'r awdurdodau a chysylltu &#226; CThEM os ydych am ganslo unrhyw awdurdod sy'n caniat&#225;u cwmni arall i weld eich cofnodion. Ni all CThEM dderbyn unrhyw atebolrwydd o ganlyniad i fethiant ar eich rhan i hysbysu CThEM o unrhyw newidiadau ynghylch rhoi awdurdod.</p>
+
+<h4>Cyffredinol</h4>
+
+<p>29.1 Gall CThEM adolygu'r Telerau ac Amodau hyn wrth i wasanaethau ddatblygu. Gall CThEM:</p>
+
+<ul>
+<li>ddefnyddio'r gwasanaeth rhyngrwyd hwn ar gyfer unrhyw ran o ddeliadau CThEM &#226; chi mewn perthynas ag unrhyw un o'r gwasanaeth y cofrestrwch ar eu cyfer</li>
+
+<li>tynnu gwasanaethau a nodweddion yn &#244;l neu eu hychwanegu neu newid y modd y gallwch gyrchu'r gwasanaethau hynny heb roi rhybudd o flaen llaw - er y budd CThEM yn ceisio rhoi rhybudd i chi o unrhyw newidiadau</li>
+</ul>
+
+<p>29.2 Gallwch weld Telerau ac Amodau CThEM ar unrhyw adeg trwy ddilyn y cysylltiad Telerau ac Amodau CThEM ar waelod unrhyw dudalen we Gwasanaeth Ar-lein.</p>
+
+<h4>Defnydd awdurdodedig</h4>
+
+<p>30.1 Mae hon yn wefan Llywodraeth y Deyrnas Unedig sydd wedi'i diogeli. Mae cyrchu heb awdurdod ac addasu heb awdurdod yn droseddau o dan Ddeddf Camddefnyddio Cyfrifiaduron 1990. Y mae'n anghyfreithlon felly i achosi niwed iddi yn fwriadol neu unrhyw gyfleuster neu ddata electronig drwy drosglwyddo unrhyw raglen, wybodaeth, cod neu orchymyn yn fwriadol.</p>
+
+<p>30.2 Oni nodi'r fel arall, mae'r deunydd a welir ar y safle hwn wedi ei ddiogelu gan <a class="new-window" href="http://www.hmrc.gov.uk/cymraeg/copyright/">Hawlfraint y Goron</a>.</p>
+
+<h4>Cyrchu gwasanaeth</h4>
+
+<p>31.1 Bydd CThEM yn ceisio sicrhau bod y gwasanaeth ar-lein ar gael pedair awr ar hugain y dydd, saith diwrnod yr wythnos. Os ymyrrir ar y gwasanaeth bydd CThEM yn ei adfer cyn gynted &#226; phosibl. Fodd bynnag gellir atal mynediad i'r gwasanaeth yn ddirybudd. Os ymyrrir ar y gwasanaeth, mae'n parhau i fod yn gyfrifoldeb arnoch i gydymffurfio ag unrhyw derfynau amser statudol yngl&#375;n &#226; chyflwyno datganiadau a ffurflenni treth.</p>
+
+<p>31.2 Mae CThEM yn cadw'r hawl i wrthod mynediad i'r gwasanaeth pan ystyrir bod hynny'n angenrheidiol i warchod cyllid, er enghraifft i warchod cyllid a/neu gywirdeb y gwasanaeth.</p>
+
+<h4>Gwybodaeth mewn perthynas &#226;'ch ymrwymiadau statudol</h4>
+
+<p>32.1 Gallwch gyrchu gwybodaeth gyfreithiol ac arweiniad sy'n ymwneud &#226;'ch ymrwymiadau statudol mewn perthynas &#226;'r gwasanaethau ar-lein amrywiol trwy fynd i adran 'Eich cyfrif'. Dylech sicrhau eich bod yn gyfarwydd &#226;'r wybodaeth hon oherwydd cewch wybod beth yw eich gofynion ar gyfer defnyddio gwasanaethau ar-lein.</p>
+
+<p>32.2 Caiff diweddariadau yngl&#375;n &#226;'r wybodaeth hon eu gosod yn yr adran <a class="new-window" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageOnlineServices_ShowContent&amp;id=HMCE_PROD1_031485&amp;propertyType=document">Amodau cyfreithiol</a> y gellir ei chyrchu drwy 'r adran 'Eich cyfrif'. Dylech sicrhau eich bod yn gwybod am y newidiadau diweddaraf yngl&#375;n &#226;'ch ymrwymiadau cyfreithiol drwy edrych ar yr adran hon yn rheolaidd.</p>
+
+<h4>Rhwymedigaeth</h4>
+
+<p>33.1 Mae CThEM yn gwneud pob ymdrech i sicrhau bod yr wybodaeth a gynhwyswyd yn y cyhoeddiadau a gwasanaethau a storir, a wasanaethir ac a gyrchir gan y Gwasanaeth Ar-lein hwn yn gywir ac yn ddibynadwy , ond ni ddylid dibynnu ar yr wybodaeth hon yn lle gofyn am gyngor ffurfiol gan CThEM. Darperir y deunyddiau a gynhwysir ar y wefan hon er gwybodaeth gyffredinol yn unig ac nid ydynt yn cynnwys cyngor o unrhyw ffurf.</p>
+
+<p>33.2 Ni fydd CThEM, ei gyflogeion ac Asiantau yn gyfrifol am unrhyw golled, sut bynnag y mae'n codi, o ganlyniad i ddefnyddio neu ddibynnu ar yr wybodaeth hon. Ni fydd CThEM yn atebol am unrhyw niwed arbennig, cysylltiedig, anuniongyrchol neu ddilynol o unrhyw fath, gan gynnwys, heb gyfyngiad, y rheiny sy'n codi o ganlyniad i golli defnydd, data neu elw, sut bynnag fydd y niwed hynny'n codi.</p>
+
+<p>33.3 Trwy ddarparu cysylltiadau &#226; gwefannau eraill nid yw CThEM yn gwarantu, cymeradwyo neu gefnogi'r wybodaeth neu'r cynnyrch sydd ar gael ar y gwefannau hyn, ac nid yw cysylltiad o angenrheidrwydd yn dangos unrhyw gysylltiad gyda neu gefnogaeth i'r wefan gysylltiedig gan CThEM.</p>
+
+<p>33.4 Ni fydd CThEM yn atebol am unrhyw ymyrraeth neu fethiant sy'n golygu nad yw'r system ar gael.</p>
+
+<h4>Rheoli data</h4>
+
+<p>34.1 Pan ymyrrir ar systemau CThEM o ganlyniad i fethiant yn y system, cedwir gwybodaeth mewn storfa ffeiliau ddiogel ym Mhorth y Llywodraeth am hyd at dri diwrnod. Caiff gwybodaeth ei throsglwyddo i systemau CThEM cyn gynted &#226; phosibl.</p>
+
+<h4>Talu trwy Ddebyd Uniongyrchol gan ddefnyddio gwasanaeth Debyd Uniongyrchol Ar-lein CThEM</h4>
+
+<p>35.1 Dylech fod yn ymwybodol:</p>
+
+<ul>
+<li>Eich cyfrifoldeb chi yw sicrhau y bydd CThEM yn derbyn taliad, ac y bydd wedi ei glirio i gyfrif CThEM, ar neu cyn y dyddiad talu. Gallai methu &#226; gwneud hynny olygu y codir llog a/neu ordal.</li>
+
+<li>Nid yw sefydlu Cyfarwyddyd Debyd Uniongyrchol a chynllun talu yn golygu bod CThEM yn cytuno naill ai &#226;'r dyddiad(au) talu a nodwch neu i ohirio ymofyn am unrhyw ddyled sydd hwyr.</li>
+
+<li>Caiff cynllun ad-dalu Credyd Treth ei dderbyn dim ond os yw'n cwmpasu'r rhwymedigaeth lawn am y cyfnod a nodir.</li>
+
+<li>Mae cynllun talu yn rhoi'r modd i chi dalu tuag at rwymedigaeth Hunanasesiad yn y dyfodol. Nid yw'n golygu bod CThEM yn cytuno naill ai &#226;'r dyddiad(au) talu a nodwch neu i ohirio ymofyn am unrhyw ddyled sydd hwyr.</li>
+</ul>
+
+<p>35.2 Trwy ganiat&#225;u mynediad i Ddefnyddwyr a Chynorthwywyr rydych yn rhoi mynediad i'r defnyddiwr hwnnw i'r gwasanaeth Debyd Uniongyrchol ar-lein.</p>
+
+<h4>Talu TAW trwy Ddebyd Uniongyrchol gan ddefnyddio gwasanaeth Cyfarwyddyd Debyd Uniongyrchol ar-lein</h4>
+
+<p>36.1 Dyma'r eitemau a'r amodau ar gyfer talu'r TAW sy'n ddyledus ar ffurflenni treth trwy Ddebyd Uniongyrchol (DD).</p>
+
+<p>36.2 I dalu trwy Ddebyd Uniongyrchol mae angen i chi'n gyntaf gofrestru ac ymrestru ar gyfer y gwasanaeth ffurflenni TAW.</p>
+
+<p>36.3 Rhaid i ddatganiadau y mae DD i'w casglu ar eu cyfer cael eu cyflwyno trwy ddefnyddio'r gwasanaeth ar-lein ar gyfer ffurflenni TAW.</p>
+
+<p>36.4 Dylech sicrhau y bydd eich Banc/Cymdeithas Adeiladu yn derbyn Cyfarwyddyd Debyd Uniongyrchol ar gyfer eich cyfrif enwebedig. Gellir casglu trwy Ddebyd Uniongyrchol dim ond ar yr amod eu bod yn derbyn Cyfarwyddyd Debyd Uniongyrchol.</p>
+
+<p>36.5 Bydd cyflwyno Cyfarwyddyd Debyd Uniongyrchol yn gweithredu fel cadarnhad eich bod yn derbyn ac yn cydymffurfio &#226;'r telerau ac amodau hyn.</p>
+
+<p>36.6 Wrth gyflwyno Cyfarwyddyd Debyd Uniongyrchol ar-lein, rhaid eich bod wedi eich awdurdodi i lofnodi ar gyfer y cyfrif. Rhaid mai chi yw unig lofnodwr y cyfrif, un o nifer o lofnodwyr y cyfrif, neu wedi eich awdurdodi i lofnodi ar ran yr holl lofnodwyr eraill.</p>
+
+<p>36.7 Rhaid eich bod hefyd yn gweithredu yn unol &#226;'r cyfarwyddyd sydd gennych gyda'ch Banc/Cymdeithas Adeiladu.</p>
+
+<p>36.8 Rhaid i'r cyfrif, y mae eich Debyd Uniongyrchol i'w gasglu ohono, fod yn gyfrif banc sterling sydd wedi ei gofrestru yn y DU.</p>
+
+<p>36.9 Y swm a gesglir bydd y TAW net sy'n ddyledus i CThEM fel y datganwyd ym mlwch 5 o'ch ffurflen TAW ar-lein. Rhaid i chi sicrhau bod arian digonol wedi ei glirio ar gael yn eich cyfrif i dalu'r swm sydd wedi ei ddatgan ar y diwrnod casglu. Byddwn yn rhoi gwybod y dyddiad casglu i chi ar-lein pan fyddwch yn cyflwyno eich ffurflen.</p>
+
+<p>36.10 Dim ond y swm a gafodd ei ddatgan ar eich ffurflen TAW ar-lein gaiff ei gasglu trwy Ddebyd Uniongyrchol. Rhaid i chi drefnu i dalu rhwymedigaethau TAW eraill (er enghraifft, gordal, cosbau neu log) trwy ddulliau talu amgen.</p>
+
+<p>36.11 Mae'n bosib y gallech fod yn agored i gosb ariannol os na chaiff eich ffurflen wedi'i chwblhau a'r holl TAW sy'n daladwy eu derbyn erbyn y dyddiadau cau. Os, am unrhyw reswm, rydych yn ymwybodol bod casglu'r Debyd Uniongyrchol wedi methu, rhaid i chi ddefnyddio dull amgen i dalu erbyn y dyddiad cau.</p>
+
+<p>36.12 Ni fydd manylion y cyfrif Banc/Cymdeithas Adeiladu y gwnaethoch eu cyflwyno ar gyfer talu'r TAW sy'n ddyledus trwy Ddebyd Uniongyrchol (ac unrhyw newidiadau i'r manylion hynny a hysbysir i ni'n hwyrach) yn effeithio ar unrhyw fanylion cyfrif Banc/Cymdeithas Adeiladu arall y gallai fod gennym at ddibenion eraill h.y. ar gyfer ad-dalu hawliadau TAW.</p>
+
+<p>36.13 Ni allwch ganslo neu ddiwygio eich Cyfarwyddyd Debyd Uniongyrchol trwy ein gwasanaeth ar-lein. Yn lle hynny, dylech hysbysu eich Banc/Cymdeithas Adeiladu a byddant yn rhoi gwybod i ni'n awtomatig am unrhyw newidiadau. Mae hyn yn cynnwys pan gaiff eich Cyfarwyddyd Debyd Uniongyrchol ei drosglwyddo i fanc neu gymdeithas adeiladu wahanol, neu pan gaiff ei drosglwyddo i gangen wahanol o fewn yr un banc/cymdeithas adeiladu. Byddwn ond yn gallu gwneud newidiadau a hysbyswyd drwy eich Banc/Cymdeithas Adeiladu.</p>
+
+<h4>Gwasanaeth Trosglwyddo Ffeiliau'n Ddiogel</h4>
+
+<p>37.1 Mae'r Gwasanaeth Trosglwyddo Ffeiliau'n Ddiogel yn galluogi ffeiliau a data i gael eu hanfon i neu eu derbyn oddi wrth CThEM. Mae'r gwasanaeth wedi ei warantu i drafod data dosbarthedig dan Gyfyngiadau (Effaith lefel 3) neu'n is. Mae diogelwch yn holl bwysig ar gyfer y gwasanaeth hwn a bydd angen i sefydliadau sy'n cyfranogi ohono chwarae eu rhan er mwyn sicrhau nad yw'r gwasanaeth o dan fygythiad mewn unrhyw ffordd. Mae defnydd o'r gwasanaeth trwy wahoddiad yn unig, a byddai disgwyl i sefydliadau gwblhau'r broses gofrestru cyn y gellir caniat&#225;u defnydd ohono. Yn arbennig, dylai sefydliadau sylwi bod yr amodau canlynol yn gymwys i'r gwasanaeth hwn.</p>
+
+<p>Sefydliadau:</p>
+
+<ul>
+<li>byddant yn cytuno i gadw manylion diogelwch allweddol yn unol &#226; Pholisi Tystysgrif yr Awdurdod Tystysgrif sy'n rhoi'r dystysgrif allwedd gyhoeddus</li>
+
+<li>byddant yn rhoi gwybod i CThEM ar unwaith petai eu hallwedd breifat o dan fygythiad am unrhyw reswm.</li>
+
+<li>byddant yn gweithredu systemau a phrosesau sy'n cydymffurfio &#226; Manylebau Rhyngwyneb a Dylunio</li>
+
+<li>byddant yn sicrhau nad yw'r gwasanaeth hwn yn cael ei ddefnyddio ar gyfer data a ddosbarthwyd fel Cyfrinachol neu Gudd.</li>
+
+<li>byddant yn cydnabod bod y defnydd o lofnod digidol CThEM ar ffeil ddata yn cadarnhau'n unig fod y ffeil wedi dod oddi wrth CThEM ac nad oes ganddo unrhyw ddilysrwydd neu ystyr arall</li>
+</ul>
+
+<p>Ffeiliau data:</p>
+
+<ul>
+<li>rhaid iddynt gael eu hamgryptio i safonau RFC 4880 gan ddefnyddio allwedd amgryptio gyhoeddus y derbynnydd.</li>
+
+<li>rhaid iddynt gael eu llofnodi cyn eu hamgryptio gydag allwedd llofnodi gyhoeddus yr anfonwr</li>
+
+<li>rhaid eu bod wedi eu hanfon i CThEM ar &#244;l i'r ddwy ochr gytuno a bod darpariaethau wedi eu gwneud ar gyfer eu prosesu.</li>
+
+<li>rhaid iddynt gael eu henwi yn unol &#226; safonau enwi</li>
+
+<li>rhaid iddynt fod yn rhydd o firysau</li>
+</ul>
+
+<p>37.2 Rhaid hysbysu Canolfan Gyswllt Cymraeg CThEM ar 0300 200 1900 am unrhyw broblemau wrth ddefnyddio'r gwasanaeth hwn.</p>
+
+<h4>Y Gyfraith gymwys</h4>
+
+<p>38.1 Bydd Telerau ac Amodau'r cytundeb hwn yn cael eu dehongli yn unol &#226; chyfreithiau Cymru a Lloegr ac yn destun awdurdodaeth unigryw llysoedd Cymru a Lloegr.</p>
+
+<h3 id="agent">Erthygl III. Asiantau</h3>
+
+<p>39.1 Mae Gwasanaethau Ar-lein CThEM yn caniat&#225;u Asiantau i gyflwyno ac anfon datganiadau a ffurflenni (er enghraifft ffurflen dreth Hunanasesiad, Ffurflenni TAW) a gwneud taliadau ar ran cleientiaid. Maent hefyd yn caniat&#225;u Asiantau sydd wedi eu hawdurdodi gan eu cleientiaid i gyrchu data a chofnodion cleient (er enghraifft Datganiad Hunanasesiad). Mae manylion llawn o'r gwasanaethau sydd ar gael ar hyn o bryd ar dudalen <a class="new-window" href="http://www.hmrc.gov.uk/online/index.htm">Gwasanaethau Ar-lein</a> CThEM.</p>
+
+<h4>Awdurdodiad</h4>
+
+<p>40.1 Er mwyn medru cyrchu data a chofnodion cleient rhaid bod y cleient wedi eich awdurdodi i weithredu ar ei ran/rhan.</p>
+
+<p>40.2 Mae'r gallu i gyrchu data a chofnodion cleient yn nodwedd annatod o rhai Gwasanaethau Ar-lein CThEM. Os nad oes gan CThEM awdurdod Asiant dilys oddi wrth y cleient, ni allwch ddefnyddio unrhyw ran o'r gwasanaethau ar-lein hynny ar ran y cleient hwnnw, ar wah&#226;n i'r cyfleuster 'Cyflwyno'n unig' sydd ar gael ar gyfer TWE, Hunanasesiad neu Dreth Gorfforaeth.</p>
+
+<h4>Cofrestru</h4>
+
+<p>41.1 Gallwch gofrestru fel Asiant ar gyfer Gwasanaethau Ar-lein CThEM ar wefan GOV.UK neu Borth y Llywodraeth. Gallwch hefyd gofrestru ar gyfer rhai gwasanaethau ar-lein ar wefan GOV.UK.</p>
+
+<p>41.2 Os cofrestrwch ar wefan GOV.UK, caiff y manylion a ddarparwch eu trosglwyddo i Borth y Llywodraeth er mwyn eu gwireddu (ar ran CThEM). Os yn llwyddiannus, caiff eich manylion cofrestru, gan gynnwys eich enw a chyfeiriad e-bost (dewisol), eu storio'n ddiogel ar system Porth y Llywodraeth, yn unol &#226; pholisi preifatrwydd Porth y Llywodraeth. Gallwch weld polisi preifatrwydd Porth y Llywodraeth ar eu gwefan.</p>
+
+<p>41.3 Gellir defnyddio eich cyfeiriad e-bost, os byddwch wedi ei ddarparu, gan Borth y Llywodraeth er mwyn cyfathrebu gyda chi ac anfon negeseuon atoch mewn perthynas &#226; gwasanaethau ar-lein eraill y Llywodraeth os byddwch yn dewis cofrestru ar gyfer y gwasanaethau hynny.</p>
+
+<p>41.4 Os cofrestrwch ar wefan CThEM, gellir storio eich manylion cofrestru ar systemau CThEM hefyd. Gallwch weld <a class="new-window" href="http://www.hmrc.gov.uk/cymraeg/about/privacy.htm">Polisi preifatrwydd</a> CThEM ar y wefan hon.</p>
+
+<h4>Dynodydd Defnyddiwr (ID) a chyfrinair</h4>
+
+<p>42.1 Defnyddir eich Dynodydd Defnyddiwr (ID) a chyfrinair (neu Dystysgrif Ddigidol) i wireddu eich hunaniaeth a dilysu'r wybodaeth a anfonwch. C&#226;nt eu cadw'n ddiogel ar Borth y Llywodraeth ac ni fyddant ar gael i adrannau'r llywodraeth.</p>
+
+<p>42.2 Mae Porth y Llywodraeth yn defnyddio'r cyfeiriad post a gofrestrir ar systemau perthnasol CThEM er mwyn anfon Cod Cychwyn y gwasanaeth atoch (os oes ei angen). Ar &#244;l i Borth y Llywodraeth anfon yr wybodaeth hon, caiff eich cyfeiriad ei ddileu o Borth y Llywodraeth.</p>
+
+<h4>Dadgofrestru</h4>
+
+<p>43.1 Rhaid dadgofrestru o Wasanaethau Ar-lein CThEM naill ai ar wefan Porth y Llywodraeth neu, wefan GOV.UK ar gyfer rhai gwasanaethau.</p>
+
+<h4>Mewngofnodi</h4>
+
+<p>44.1 Pan fyddwch wedi cofrestru, gallwch fewngofnodi i wefan GOV.UK trwy ddefnyddio eich Dynodydd Defnyddiwr (ID) a chyfrinair (neu Dystysgrif Ddigidol) i gyrchu Gwasanaethau Ar-lein CThEM. Caiff eich Dynodydd Defnyddiwr (ID) a chyfrinair wedi eu hamgryptio (neu Dystysgrif Ddigidol) eu trosglwyddo i Borth y Llywodraeth er mwyn eu dilysu.</p>
+
+<h4>Diogelwch</h4>
+
+<p>45.1 Rhaid i chi gadw eich Dynodydd Defnyddiwr (ID) a'ch cyfrinair (neu Dystysgrif Ddigidol) yn ddiogel ac yn gyfrinachol bob amser. Gallwch newid eich cyfrinair ar wefan GOV.UK neu Borth y Llywodraeth.</p>
+
+<p>45.2 Os anghofiwch eich Dynodydd Defnyddiwr (ID), gallwch ofyn am iddo gael ei ail-anfon atoch naill ai drwy'r post neu ar-lein, trwy ddefnyddio gwefan GOV.UK. Os anghofiwch eich cyfrinair, gallwch ofyn am un arall gael ei anfon atoch naill ai drwy'r post neu ar-lein, trwy ddefnyddio gwefan GOV.UK.</p>
+
+<p>45.3 Os collwch eich Dynodydd Defnyddiwr (ID) yn ogystal &#226;'ch cyfrinair, bydd angen i chi gysylltu &#226; Chanolfan Gyswllt Gymraeg CThEM ar 0300 200 1900.</p>
+
+<p>45.4 I gael arweiniad manwl yngl&#375;n &#226; diogelwch ar-lein, dilynwch y cysylltiad <a class="new-window" href="https://www.gov.uk/dealing-with-hmrc/phishing-scams">Diogelwch ar-lein - sicrhau bod mynd ar-lein mor ddiogel &#226; phosibl</a>.</p>
+
+<h4>Blwch post diogel</h4>
+
+<p>46.1 Pan fyddwch yn cofrestru am y tro cyntaf caiff blwch post diogel ar-lein ei greu ar eich cyfer ar Borth y Llywodraeth. Efallai y bydd rhai gwasanaethau'n defnyddio'r blwch post diogel er mwyn anfon atoch negeseuon ac atebion i gwestiynau ar e-bost. Gallwch weld cynnwys eich blwch post diogel ar gyfer y gwasanaethau hyn ar wefan GOV.UK.</p>
+
+<p>46.2 Dylech edrych yn eich blwch post yn rheolaidd a dileu hen negeseuon. Bydd negeseuon sydd wedi cael eu darllen ac wedi bod ar y system am hyd at dri mis ers y dyddiad eu hanfonwyd yn cael eu rhoi mewn archif a'u dileu o'ch blwch post. Bydd negeseuon sydd heb eu darllen ac wedi bod ar y system am hyd at 12 mis ers y dyddiad eu hanfonwyd yn cael eu harchifo a'u dileu o'ch blwch post.</p>
+
+<h4>Hysbysiadau statudol, nodion atgoffa a thystysgrifau</h4>
+
+<p>47.1 Efallai y caiff rhai gwasanaethau ar-lein eu defnyddio i anfon hysbysiadau statudol (megis hysbysiadau cod TWE) a nodion atgoffa i'ch cleientiaid, i weithredu ar eu rhan. Gallwch weld yr hysbysiadau a'r nodion atgoffa yn ddiogel ar wefan CThEM, neu yn y rhan fwyaf o achosion trwy ddefnyddio rhaglenni meddalwedd trydydd parti. Gallwch hefyd eu hargraffu neu eu cadw ar eich cyfrifiadur eich hun. Bydd gan hysbysiadau statudol CThEM sydd ar gael yn y dull hwn yr un dilysrwydd a goblygiadau cyfreithiol a hysbysiadau statudol papur a anfonir drwy'r post.</p>
+
+<p>47.2 Os yw'n well gennych barhau i dderbyn hysbysiadau TWE a nodion atgoffa, ar ran cleient, trwy Gyfnewid Data Electronig (EDI) neu ar bapur, gallwch ddewis peidio &#226;'u derbyn dros y rhyngrwyd. Gallwch wneud hyn ar wefan CThEM trwy ddilyn y cysylltiad 'Newid opsiynau hysbysiadau' o'r dudalen 'TWE Ar gip'. Fodd bynnag, mae CThEM yn cadw'r hawl i barhau i anfon gwybodaeth arall atoch, er enghraifft negeseuon gwasanaethau cwsmer a gwybodaeth yngl&#375;n &#226; thaliadau sy'n rhydd o dreth, drwy eich blwch post ar-lein. Os hoffech newid eich dewisiadau, dilynwch y cysylltiad 'Newid opsiynau hysbysiadau' o'r dudalen 'TWE Ar gip'.</p>
+
+<h4>Gwasanaethau cyflwyno ar-lein</h4>
+
+<p>48.1 Mae rhai Gwasanaethau Ar-lein CThEM (er enghraifft Hunanasesiad) yn caniat&#225;u Asiantau a'u cleientiaid i weld manylion o ffurflenni treth a gyflwynwyd yn barod. Dylai Asiantau fod yn ymwybodol bod hyn yn golygu, pan mae cleient yn newid Asiant, bydd unrhyw Asiant newydd awdurdodedig yn medru gweld y ffurflenni a chyflwynwyd ar-lein gan gyn Asiant awdurdodedig. Pan mae cyn Asiant wedi bod yr enwebai er mwyn derbyn ad-daliad treth cleient, mae'r wybodaeth ar y ffurflen yn cynnwys manylion cyfrif banc a chod didoli'r Asiant.</p>
+
+<p>48.2 Pan fyddwch yn defnyddio gwasanaethau cyflwyno ar-lein CThEM, rhaid i chi ddefnyddio naill ai meddalwedd CThEM neu, pan fo ar gael, meddalwedd trydydd parti sy'n eich galluogi i gyflwyno ar-lein. Bydd y meddalwedd yn gofyn i chi nodi ar yr adeg briodol Dynodydd Defnyddiwr (ID) a chyfrinair (neu Dystysgrif Ddigidol) er mwyn gwireddu eich hunaniaeth a dilysu'r wybodaeth a anfonwch.</p>
+
+<p>48.3 Mae rhai Gwasanaethau Ar-lein CThEM yn eich caniat&#225;u i anfon atodiadau (er enghraifft ffeiliau PDF) gyda'r ffurflen dreth. Rhaid bod yr atodiadau a anfonwch gyda'r ffurflen fod yn briodol ac yn gyflawn a rhaid bod CThEM yn gallu eu gweld. Os am unrhyw reswm na all CThEM weld cynnwys yr atodiadau, neu os nad ydynt yn briodol ac yn gyflawn, efallai na fodlonir eich ymrwymiad i gyflwyno ffurflen dreth. Er y bydd CThEM yn eich hysbysu o hyn cyn gynted &#226; phosibl, ni all CThEM warantu gwneud hynny mewn da bryd er mwyn i chi osgoi talu cosbau.</p>
+
+<p>48.4 Mae gan ffurflen dreth, hawliad, cais neu ffurflen sydd wedi eu dilysu ac a anfonir ar y rhyngrwyd a'u derbyn gan systemau CThEM yr un dilysrwydd a goblygiadau cyfreithiol a ffurflen dreth bapur, hawliad, cais neu ffurflen sydd wedi eu llofnodi a'u hanfon i swyddfa CThEM.</p>
+
+<p>48.5 Mae rhai Gwasanaethau Ar-lein CThEM yn gofyn i chi gyflwyno gwybodaeth ar bapur. Dywedir wrthych ar y sgrin os mai hyn yw'r achos a phan yn briodol cewch eich tywys at y ffurflen briodol er mwyn ei lawrlwytho.</p>
+
+<p>48.6 Rhaid i Ffurflenni Treth Cwmn&#239;au, a anfonir trwy ddefnyddio'r gwasanaeth cyflwyno ar-lein, gynnwys yr atodiadau y gofynnir amdanynt. Nid yw ffurflen CT600 a anfonir heb yr atodiadau y gofynnir amdanynt yn bodloni'r ymrwymiadau cyflwyno a chaiff y cwmni ei drin fel petai heb gyflwyno ffurflen dreth.</p>
+
+<p>48.7 Cyn i chi anfon ffurflen dreth, hawliad neu gais eich cleient rhaid i chi wneud copi a gofyn iddynt wneud datganiad yn cadarnhau bod cynnwys y ffurflen dreth, hawliad neu gais yn gywir hyd eithaf eu gwybodaeth a chred. Cewch wedyn cyflwyno'r ffurflen dreth, hawliad neu gais. Mae CThEM yn eich cynghori chi, neu eich cleient, i gadw copi o'r ffurflen dreth, hawliad neu gais a datganiad eich cleient sy'n cadarnhau bod y wybodaeth yn gywir hyd eithaf eu gwybodaeth a chred.</p>
+
+<p>48.8 Pan mae eich cleient yn gwmni, cewch gwblhau'r datganiad ar ran y cleient cwmni hwnnw os yw'r cwmni wedi eich awdurdodi i wneud hynny. Yn y fath achosion nid oes rhaid i chi wneud copi o'r wybodaeth cyn iddi gael ei hanfon.</p>
+
+<h4>Cyffredinol</h4>
+
+<p>49.1 Gall CThEM adolygu'r Telerau ac Amodau hyn wrth i wasanaethau ddatblygu. Gall CThEM:</p>
+
+<ul>
+<li>ddefnyddio'r gwasanaeth rhyngrwyd hwn ar gyfer unrhyw ran o ddeliadau CThEM &#226; chi mewn perthynas ag unrhyw wasanaeth y cofrestrwch ar ei gyfer</li>
+
+<li>tynnu gwasanaethau a nodweddion yn &#244;l neu eu hychwanegu neu newid y modd y gallwch gyrchu'r gwasanaethau hynny heb roi rhybudd o flaen llaw - er y budd CThEM yn ceisio rhoi rhybudd i chi o unrhyw newidiadau</li>
+</ul>
+
+<p>49.2 Gallwch weld ein Telerau ac Amodau ar unrhyw adeg trwy ddilyn y cysylltiad Telerau ac Amodau ar waelod unrhyw dudalen we Gwasanaeth Ar-lein CThEM.</p>
+
+<h4>Defnydd awdurdodedig</h4>
+
+<p>50.1 Bydd CThEM yn ceisio sicrhau bod y gwasanaeth ar-lein ar gael dau ddeg pedwar awr y dydd, saith diwrnod yr wythnos. Os ymyrrir ar y gwasanaeth bydd CThEM yn ei adfer cyn gynted &#226; phosibl. Fodd bynnag, gellir atal mynediad i'r gwasanaeth yn ddirybudd. Os ymyrrir ar y gwasanaeth, eich cyfrifoldeb chi o hyd yw cydymffurfio ag unrhyw derfynau amser statudol yngl&#375;n &#226; chyflwyno datganiadau a ffurflenni treth.</p>
+
+<p>50.2 Oni nodi'r fel arall, mae'r deunydd a welir ar y safle hwn wedi ei ddiogelu gan <a class="new-window" href="http://www.hmrc.gov.uk/cymraeg/copyright/">Hawlfraint y Goron</a>.</p>
+
+<h4>Cyrchu gwasanaeth</h4>
+
+<p>51.1 Bydd CThEM yn ceisio sicrhau bod y gwasanaeth ar-lein ar gael dau ddeg pedwar awr y dydd, saith diwrnod yr wythnos. Os ymyrrir ar y gwasanaeth bydd CThEM yn ei adfer cyn gynted &#226; phosibl. Fodd bynnag, gellir atal mynediad i'r gwasanaeth yn ddirybudd. Os ymyrrir ar y gwasanaeth, eich cyfrifoldeb chi o hyd yw cydymffurfio ag unrhyw derfynau amser statudol yngl&#375;n &#226; chyflwyno datganiadau a ffurflenni treth.</p>
+
+<p>51.2 Mae CThEM yn cadw'r hawl i wrthod mynediad i'r gwasanaeth pan ystyrir bod hynny'n angenrheidiol i warchod cyllid, er enghraifft i warchod cyllid a/neu gywirdeb y gwasanaeth.</p>
+
+<h4>Gwybodaeth mewn perthynas &#226;'ch ymrwymiadau statudol</h4>
+
+<p>52.1 Gallwch gyrchu gwybodaeth gyfreithiol ac arweiniad sy'n yngl&#375;n &#226;'ch ymrwymiadau statudol mewn perthynas &#226;'r gwasanaethau ar-lein amrywiol trwy fynd i adran 'Eich cyfrif'. Dylech sicrhau eich bod yn gyfarwydd &#226;'r wybodaeth hon oherwydd mi fydd yn rhoi gwybod i chi beth yw'r gofynion statudol ar gyfer defnyddio gwasanaethau ar-lein.</p>
+
+<p>52.2 Caiff diweddariadau yngl&#375;n &#226;'r wybodaeth hon eu gosod yn yr adran <a class="new-window" href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageOnlineServices_FAQs&amp;propertyType=document&amp;columns=1&amp;id=HMCE_PROD1_026374">Amodau cyfreithiol</a> y gellir ei chyrchu drwy'r adran 'Eich cyfrif'. Dylech sicrhau eich bod yn gwybod am y newidiadau diweddaraf yngl&#375;n &#226;'ch ymrwymiadau cyfreithiol drwy edrych ar yr adran hon yn rheolaidd.</p>
+
+<h4>Rhwymedigaeth</h4>
+
+<p>53.1 Mae CThEM yn gwneud pob ymdrech i sicrhau bod yr wybodaeth a gynhwyswyd yn y cyhoeddiadau a gwasanaethau a storiwyd, a wasanaethir ac a gyrchir gan y gwasanaeth we hwn yn gywir ac yn ddibynadwy, ond ni ddylid dibynnu ar yr wybodaeth hon yn lle gofyn am gyngor ffurfiol gan CThEM. Darperir y deunyddiau a gynhwysir ar y wefan hon er gwybodaeth gyffredinol yn unig ac nid ydynt yn cynnwys cyngor o unrhyw ffurf.</p>
+
+<p>53.2 Ni fydd CThEM, ei gyflogeion ac Asiantau yn gyfrifol am unrhyw golled, sut bynnag y mae'n codi, o ganlyniad i ddefnyddio neu ddibynnu ar yr wybodaeth hon. Ni fydd CThEM yn atebol am unrhyw niwed arbennig, cysylltiedig, anuniongyrchol neu ddilynol o unrhyw fath, gan gynnwys, heb gyfyngiad, y rheiny sy'n codi o ganlyniad i golli defnydd, data neu elw, sut bynnag fydd y niwed hynny'n codi.</p>
+
+<p>53.3 Trwy ddarparu cysylltiadau &#226; gwefannau eraill nid yw CThEM yn gwarantu, cymeradwyo neu gefnogi'r wybodaeth neu'r cynnyrch sydd ar gael ar y gwefannau hyn, ac nid yw cysylltiad o angenrheidrwydd yn dangos unrhyw gysylltiad gyda neu gefnogaeth i'r wefan gysylltiedig gan CThEM.</p>
+
+<p>53.4 Ni fydd CThEM yn atebol am unrhyw ymyrraeth neu fethiant sy'n golygu nad yw'r system ar gael.</p>
+
+<h4>Rheoli data</h4>
+
+<p>54.1 Pan ymyrrir ar systemau CThEM o ganlyniad i fethiant yn y system, cedwir gwybodaeth mewn storfa ffeiliau ddiogel ym Mhorth y Llywodraeth am hyd at dri diwrnod. Caiff gwybodaeth ei throsglwyddo i systemau CThEM cyn gynted &#226; phosibl.</p>
+
+<h4>Cyfraith berthnasol</h4>
+
+<p>55.1 Bydd Telerau ac Amodau'r cytundeb hwn yn cael eu dehongli yn unol &#226; chyfreithiau Cymru a Lloegr, a byddant yn amodol ar awdurdodaeth gyfyngol llysoedd Cymru a Lloegr.</p>
+
+<h3 id="shared-workspace">Erthygl IV. Gwasanaeth ar-lein Gweithle sy'n cael ei Rannu</h3>
+
+<p>56.1 Fel aelod cofrestredig o wasanaeth ar-lein Gweithle sy'n cael ei Rannu cewch ddefnyddio a gweld cyfleusterau'r gwasanaeth yn amodol ar anghenion eich busnes. Byddwch yn ymwybodol bod eich defnydd o'r cyfleusterau yn amodol ar, ac yn golygu eich bod yn derbyn, y Telerau ac amodau hyn o'r amser yr ydych yn cychwyn defnyddio'r gwasanaeth.</p>
+
+<p>56.2 Gall CThEM ar unrhyw adeg newid y Telerau ac Amodau hyn. Dehonglir eich defnydd o'r gwasanaeth ar &#244;l y fath newid fel eich derbyniad o'r Telerau ac Amodau diwygiedig. Dylech sicrhau eich bod yn ail-ymweld a nhw'n rheolaidd er lles eich hunain.</p>
+
+<p>56.3 Fel aelod rhaid i chi gymryd pob cam rhesymol er mwyn sicrhau nad ydych yn creu, defnyddio, cadw, lawrlwytho, gosod, dosbarthu neu gylchredeg unrhyw ddeunydd, gan gynnwys delweddau, testun, meddalwedd neu gysylltiadau i wefannau sydd:</p>
+
+<ul>
+<li>yn, neu gallai gael ei ystyried i fod yn anweddus neu'n fasweddus</li>
+
+<li>yn, neu gallai gael ei ystyried i fod yn atgas neu'n sarhaus, gallai gael ei ystyried i fod yn ymosodiad personol, neu'n anfoesgar, rhywiaethol, hiliol neu'n annymunol yn gyffredinol</li>
+
+<li>yn annog neu'n hyrwyddo gweithrediadau sy'n gwneud defnydd anghynhyrchiol o amser CThEM neu ei gilydd, er enghraifft anfon 'e-byst cadwyn'</li>
+
+<li>yn hyrwyddo unrhyw fusnes neu achos, yn ariannol neu fel arall, petai'n fasnachol, wleidyddol, diwylliannol, ethnig neu'n grefyddol</li>
+
+<li>yn annog neu'n hyrwyddo gweithgareddau troseddol</li>
+
+<li>yn ymwneud ag unrhyw weithgaredd tu allan i gwmpas y gwasanaeth ar-lein, er enghraifft, gwerthu neu hysbysebu nwyddau a gwasanaethau</li>
+
+<li>&#226;'r gallu i niweidio neu orlwytho systemau, rhwydweithiau a/neu gyfathrebiadau allanol CThEM</li>
+
+<li>&#226;'r posibilrwydd o fod yn ddifenwol; achosi rhwymedigaeth i CThEM neu aelod cofrestredig arall neu gael unrhyw effaith groes</li>
+
+<li>wedi ei warchod gan gyfreithiau hawlfraint</li>
+</ul>
+
+<p>56.4 I atal pobl all defnyddio eich cyfrifiadur yn hwyrach rhag cyrchu gwybodaeth Gweithle sy'n cael ei Rannu a storiwyd ar eich cyfrifiadur, rhaid clirio'r storfa dros dro o'r wybodaeth hon wrth adael Gweithle sy'n cael ei Rannu. I wneud hyn dilynwch y cyfarwyddiadau perthnasol yng nghyfleuster 'Help' eich porwr rhyngrwyd.</p>
+
+<p>56.5 Am fwy o arweiniad yn ymwneud &#226; storio, yn benodol ar gyfer cwsmeriaid sy'n defnyddio'r ategyn, dilynwch y cysylltiad <a class="new-window" href="http://www.hmrc.gov.uk/manuals/swmanual/SW03370.htm">Defnyddio Gweithle sy'n cael ei Rannu: I Gwsmer sy'n Gweithio o Gartref ac o Bell</a> yn y llawlyfr busnes Gweithle sy'n cael ei Rannu.</p>
+
+<p>56.6 Eich cyfrifioldeb chi yw sicrhau bod gwybodaeth yn cael ei chadw'n ddiogel, ac yn unol &#226; chanllawiau eich sefydliad.</p>
+
+<p>56.7 Mae rhai gweithgareddau'n droseddau o dan Ddeddf Camddefnyddio Cyfrifiaduron 1990. Mae'r rhain yn cynnwys:</p>
+
+<ul>
+<li>cyrchu deunydd cyfrifiadurol heb awdurdod (megis hacio; cyrchu cofnodion cwsmer a data a systemau corfforedig mewn ffordd anaddas, gan gynnwys cyfleusterau olrhain/chwilio)</li>
+
+<li>cyrchu heb awdurdod, gyda'r bwriad o gyflawni (neu helpu eraill i gyflawni) troseddau pellach</li>
+
+<li>addasu deunydd cyfrifiadurol heb awdurdod</li>
+</ul>
+
+<p>56.8 Defnyddir unrhyw wybodaeth a gasglwyd drwy'r gwasanaeth hwn at arolwg mewnol yn unig, ac ni chaiff ei rhannu &#226; sefydliadau eraill at ddibenion masnachol.</p>
+
+<p>56.9 Caiff pob risg Technoleg Gwybodaeth (TG) eu canfod, rheoli a'u terfynu gan uwch swyddog CThEM. Cyflawnir asesiadau risg yn rheolaidd ac yn annibynnol ar gyfer Gweithle sy'n cael ei Rannu.</p>
+
+<p>56.10 Gosodir allan cyfrifoldebau a rhwymedigaethau CThEM i chi wrth gyflenwi'r gwasanaeth hwn ac unrhyw wasanaethau cysylltiol yn <a class="new-window" href="http://www.hmrc.gov.uk/cymraeg/terms/">Ymwadiad</a> CThEM.</p>
